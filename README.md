@@ -8,7 +8,7 @@ Jinlong Guo 的个人研究网站。Astro 静态生成，GitHub Pages 托管，P
 - Atlas：https://jinlongguo.github.io/atlas/
 - 完整数据：https://jinlongguo.github.io/atlas/data/atlas.json
 - CSV：https://jinlongguo.github.io/atlas/data/atlas.csv
-- 编辑器：https://app.pagescms.org/jinlongguo/jinlongguo.github.io/main
+- 编辑器：https://app.pagescms.org/jinlongguo/jinlongguo.github.io/main/collection/articles
 
 在 Pages CMS 使用 GitHub 登录并选择本仓库的 `main` 分支。打开「文章 Articles」，点击新建文章，填写标题、日期、摘要、标签和语言。正文的可视化编辑器和 Source 模式可自由切换；链接工具或 Markdown 链接均可使用任意合法外部网址。图片可在正文工具栏上传，也可选取媒体库中的图片。附件在「附件 Downloads」上传后，以 `/files/文件名` 链接引用。
 
