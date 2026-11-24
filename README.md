@@ -18,6 +18,18 @@ Jinlong Guo 的个人研究网站。Astro 静态生成，GitHub Pages 托管，P
 
 中文、英文文章按语言分别展示。文章有对应译文时，为两个版本填写相同的 `translationKey`；没有译文时，语言按钮返回另一语言的文章目录。
 
+## 永久链接与引用
+
+新建文章时填写 `Slug`，例如 `ai-native-publishing`。中文文章地址为 `https://jinlongguo.github.io/zh/articles/ai-native-publishing/`，英文文章使用 `/en/articles/`。Slug 由小写英文字母、数字和短横线组成，最长 120 字符。Pages CMS 的 Slug 旁显示网址格式及示例；当前托管版没有原生动态 URL 预览配置。
+
+文章标题、日期、摘要、标签、正文和翻译关联标识均不参与 URL 生成。文件名只在新建时确定，CMS 不允许重命名已有文章文件。现有《我的 AI-native 发布实践》保留 `/zh/articles/2026-11-24-/`，无需修改历史分享链接。
+
+主动修改 Slug 或语言时，构建会从完整 Git 历史恢复该文章所有曾公开的地址，在旧地址继续提供文章并指向当前 canonical 永久链接。GitHub Pages 静态托管下，这些是可访问的历史页面，使用 canonical 标记归并，不声称提供 HTTP 301。重复占用当前或历史地址会导致构建失败，上一成功部署继续在线。设为草稿或删除文章仍会正常撤下所有关联页面。
+
+每篇文章末尾提供 **Suggested Citation**、实际 **Permalink** 和 **Copy Citation**。引用自动包含 Jinlong Guo、文章当前标题、发布日期和 canonical 永久链接；从历史地址访问时也复制当前正式地址。若浏览器禁止剪贴板写入，页面会选中引用文字并提示手动复制。
+
+部署使用完整 Git 历史（`fetch-depth: 0`），不需要额外 Token 或自动回写文章。构建下载的无 Git 源码时，仅能生成当前地址；要保留全部历史地址，请正常克隆仓库并构建。`npm test` 覆盖稳定性、历史兼容、冲突校验与引用内容。
+
 ## 内容结构
 
 - `src/content/articles/*.md`：文章；YAML frontmatter 与 Markdown 正文。

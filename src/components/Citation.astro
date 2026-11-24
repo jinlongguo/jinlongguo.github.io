@@ -1,0 +1,49 @@
+---
+import { articleURL, citationText } from '../lib/article-urls.mjs';
+const { article } = Astro.props;
+const zh = article.data.lang === 'zh';
+const permalink = articleURL(article);
+const citation = citationText(article);
+---
+<aside class="citation" aria-labelledby="citation-heading">
+  <h2 id="citation-heading">{zh ? 'Suggested Citation · 建议引用' : 'Suggested Citation'}</h2>
+  <p class="citation-text" data-citation-text tabindex="0">{citation}</p>
+  <p class="permalink"><span>Permalink</span> <a href={permalink}>{permalink}</a></p>
+  <div class="citation-actions">
+    <button type="button" class="button" data-copy-citation data-success={zh ? '已复制引用' : 'Citation copied'} data-failure={zh ? '无法自动复制，已选中引用文本，请手动复制。' : 'Automatic copy unavailable. The citation is selected; please copy it manually.'}>Copy Citation{zh ? ' · 复制引用' : ''}</button>
+    <span class="citation-status" role="status" aria-live="polite"></span>
+  </div>
+</aside>
+<script>
+  document.querySelectorAll<HTMLButtonElement>('[data-copy-citation]').forEach(button => {
+    button.addEventListener('click', async () => {
+      const box = button.closest('.citation');
+      const text = box?.querySelector<HTMLElement>('[data-citation-text]');
+      const status = box?.querySelector<HTMLElement>('[role="status"]');
+      if (!text || !status) return;
+      try {
+        await navigator.clipboard.writeText(text.textContent?.trim() || '');
+        status.textContent = button.dataset.success || 'Citation copied';
+      } catch {
+        const selection = window.getSelection();
+        const range = document.createRange();
+        range.selectNodeContents(text);
+        selection?.removeAllRanges();
+        selection?.addRange(range);
+        text.focus();
+        status.textContent = button.dataset.failure || 'Please copy the selected citation manually.';
+      }
+    });
+  });
+</script>
+<style>
+  .citation{margin-top:48px;padding:25px;border:1px solid var(--line);border-radius:8px;background:#f8f9fc;max-width:100%}
+  .citation h2{font-size:1.15rem;margin:0 0 16px}
+  .citation-text{font-size:16px;line-height:1.8;overflow-wrap:anywhere;user-select:text}
+  .permalink{font-size:14px;overflow-wrap:anywhere;color:var(--muted)}
+  .permalink span{font-weight:600;margin-right:8px}
+  .citation-actions{display:flex;align-items:center;gap:15px;flex-wrap:wrap;margin-top:20px}
+  button{border:0;font:inherit;cursor:pointer}
+  .citation-status{font-size:14px;color:var(--muted)}
+  @media(max-width:600px){.citation{padding:20px}}
+</style>

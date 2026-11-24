@@ -18,11 +18,13 @@ content:
     path: src/content/articles
     format: yaml-frontmatter
     filename:
-      template: "{year}-{month}-{day}-{primary}.md"
-      field: create
+      template: "{fields.lang}-{fields.slug}.md"
+      field: false
+    operations:
+      rename: false
     subfolders: false
     view:
-      fields: [title, date, lang, draft]
+      fields: [title, slug, date, lang, draft]
       primary: title
       sort: [date, title]
       default:
@@ -33,6 +35,16 @@ content:
         label: 标题 Title
         type: string
         required: true
+      - name: slug
+        label: Slug（永久链接标识）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*-?$"
+          message: 请使用小写英文字母、数字和短横线，例如 ai-native-publishing。
+        options:
+          maxlength: 120
+        description: "预期发布网址：https://jinlongguo.github.io/{lang}/articles/{slug}/（lang 为 zh 或 en）。例如中文 Slug 为 ai-native-publishing，则网址为 https://jinlongguo.github.io/zh/articles/ai-native-publishing/。修改标题、标签或正文不会改变网址；主动修改 Slug 后，旧网址仍可访问。"
       - name: date
         label: 日期 Date
         type: date

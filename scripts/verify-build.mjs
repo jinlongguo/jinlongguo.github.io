@@ -17,4 +17,13 @@ const home = await readFile(`${root}dist/index.html`, 'utf8');
 assert(home.includes('Knowledge Reconstruction'));
 assert(home.includes('/atlas/'));
 assert(!/fonts\.googleapis|cdnjs|unpkg\.com/.test(home));
-console.log('Verified routes, Atlas data preservation (108 records), downloads, and self-hosted assets.');
+const routes = JSON.parse(await readFile(`${root}src/generated/article-routes.json`, 'utf8'));
+for (const route of routes) {
+  const html = await readFile(`${root}dist/${route.lang}/articles/${route.id}/index.html`, 'utf8');
+  const canonical = `https://jinlongguo.github.io${route.canonicalPath}`;
+  assert(html.includes(`<link rel="canonical" href="${canonical}"`), 'Historical pages must point to the current permalink');
+  assert(html.includes('Suggested Citation'), 'Articles must include a suggested citation');
+  assert(html.includes('data-copy-citation'), 'Articles must include the copy control');
+  assert(html.includes(canonical), 'Citation must include the canonical permalink');
+}
+console.log(`Verified ${routes.length} article permalinks/citations, routes, Atlas data preservation (108 records), downloads, and self-hosted assets.`);

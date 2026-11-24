@@ -3,8 +3,7 @@ export type Language = typeof languages[number];
 export const sections = ['articles', 'projects', 'resources', 'about'] as const;
 export const home = (lang: Language) => lang === 'zh' ? '/' : '/en/';
 export const path = (lang: Language, section: string) => `/${lang}/${section}/`;
-export const articlePath = (article: { id: string; data: { lang: Language } }) =>
-  `/${article.data.lang}/articles/${article.id}/`;
+export { articlePath } from './article-urls.mjs';
 export const dateLabel = (date: Date, lang: Language) => new Intl.DateTimeFormat(
   lang === 'zh' ? 'zh-CN' : 'en-GB', { dateStyle: 'long', timeZone: 'UTC' }
 ).format(date);

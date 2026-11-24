@@ -1,12 +1,12 @@
 ---
 import '../styles/global.css';
 import { copy, home, path, type Language } from '../lib/site';
-interface Props { lang: Language; title?: string; description?: string; section?: string; alternate?: string; }
-const { lang, title, description, section = 'home', alternate } = Astro.props;
+interface Props { lang: Language; title?: string; description?: string; section?: string; alternate?: string; canonicalPath?: string; }
+const { lang, title, description, section = 'home', alternate, canonicalPath } = Astro.props;
 const t = copy[lang];
 const other = lang === 'zh' ? 'en' : 'zh';
 const otherPath = alternate || (section === 'home' ? home(other) : path(other, section));
-const canonical = new URL(Astro.url.pathname, Astro.site);
+const canonical = new URL(canonicalPath || Astro.url.pathname, Astro.site);
 ---
 <!doctype html>
 <html lang={lang === 'zh' ? 'zh-CN' : 'en'}>
