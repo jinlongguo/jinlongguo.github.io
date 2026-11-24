@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import Project from '../../components/Project.astro';
+import ArticleList from '../../components/ArticleList.astro';
+import { getCollection } from 'astro:content';
+import { copy, languages, sections, type Language } from '../../lib/site';
+export function getStaticPaths() { return languages.flatMap(lang => sections.map(section => ({ params: { lang, section }, props: { lang, section } }))); }
+const { lang, section } = Astro.props as { lang: Language; section: typeof sections[number] };
+const t = copy[lang];
+const heading = { articles:t.articleHeading, projects:t.projectHeading, resources:t.resourceHeading, about:t.aboutHeading }[section];
+const articles = (await getCollection('articles', ({data}) => !data.draft && data.lang === lang)).sort((a,b) => b.data.date.getTime() - a.data.date.getTime());
+---
+<Base lang={lang} title={heading} section={section}>
+  <div class="page-heading"><p class="eyebrow">{section.toUpperCase()}</p><h1>{heading}</h1></div>
+  {section === 'articles' && <ArticleList articles={articles} lang={lang} />}
+  {section === 'projects' && <Project lang={lang} />}
+  {section === 'resources' && <section class="resource-list"><h2>{t.project}</h2><p>{t.version}</p><ul>
+    <li><a href="/atlas/">{t.explore}</a><span>{t.scope}</span></li>
+    <li><a href="/atlas/data/atlas.json" download>{t.dataset}</a><span>JSON · 108 records</span></li>
+    <li><a href="/atlas/data/atlas.csv" download>{t.csv}</a><span>CSV · UTF-8</span></li>
+    <li><a href="/downloads/metascience-atlas-source.zip" download>{t.source}</a><span>HTML · CSS · JavaScript · JSON</span></li>
+  </ul></section>}
+  {section === 'about' && <div class="prose"><h2>Jinlong Guo</h2><p>{t.aboutText}</p><p><a href="https://github.com/jinlongguo">GitHub · jinlongguo</a></p></div>}
+</Base>

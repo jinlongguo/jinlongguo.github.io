@@ -1,0 +1,20 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import { articlePath, copy, path, dateLabel } from '../../../lib/site';
+export async function getStaticPaths() {
+  const articles = await getCollection('articles', ({ data }) => !data.draft);
+  return articles.map(article => ({ params: { lang: article.data.lang, id: article.id }, props: { article } }));
+}
+const { article } = Astro.props;
+const { Content } = await render(article);
+const lang = article.data.lang;
+const translations = article.data.translationKey ? await getCollection('articles', ({data}) => !data.draft && data.lang !== lang && data.translationKey === article.data.translationKey) : [];
+const alternate = translations[0] ? articlePath(translations[0]) : path(lang === 'zh' ? 'en' : 'zh', 'articles');
+---
+<Base lang={lang} title={article.data.title} description={article.data.summary} section="articles" alternate={alternate}>
+  <article class="article-page"><header><p class="eyebrow">{lang === 'zh' ? '研究文章' : 'RESEARCH WRITING'}</p><h1>{article.data.title}</h1><p class="muted"><time datetime={article.data.date.toISOString()}>{dateLabel(article.data.date, lang)}</time> · Jinlong Guo</p>{article.data.summary && <p class="lede">{article.data.summary}</p>}<div class="tags">{article.data.tags.map((tag: string) => <span>{tag}</span>)}</div></header>
+    {article.data.cover && <img class="cover" src={article.data.cover} alt={article.data.title} />}
+    <div class="prose"><Content /></div><a class="back" href={path(lang, 'articles')}>{copy[lang].back}</a>
+  </article>
+</Base>

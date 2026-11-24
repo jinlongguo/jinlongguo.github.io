@@ -1,0 +1,35 @@
+---
+import '../styles/global.css';
+import { copy, home, path, type Language } from '../lib/site';
+interface Props { lang: Language; title?: string; description?: string; section?: string; alternate?: string; }
+const { lang, title, description, section = 'home', alternate } = Astro.props;
+const t = copy[lang];
+const other = lang === 'zh' ? 'en' : 'zh';
+const otherPath = alternate || (section === 'home' ? home(other) : path(other, section));
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+<!doctype html>
+<html lang={lang === 'zh' ? 'zh-CN' : 'en'}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="description" content={description || t.description} />
+    <title>{title ? `${title} · Knowledge Reconstruction` : 'Knowledge Reconstruction · 知识重构者'}</title>
+    <link rel="canonical" href={canonical} />
+    <link rel="alternate" hreflang={other === 'zh' ? 'zh-CN' : 'en'} href={new URL(otherPath, Astro.site)} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <a class="skip" href="#main">{lang === 'zh' ? '跳至正文' : 'Skip to content'}</a>
+    <header class="site-header wrap">
+      <a class="brand" href={home(lang)}><span class="brand-mark" aria-hidden="true">KR</span><span>Knowledge Reconstruction<small>知识重构者 · Jinlong Guo</small></span></a>
+      <nav aria-label={lang === 'zh' ? '主导航' : 'Main navigation'}>
+        {(['home', 'articles', 'projects', 'resources', 'about'] as const).map(item => <a href={item === 'home' ? home(lang) : path(lang, item)} aria-current={section === item ? 'page' : undefined}>{t[item]}</a>)}
+      </nav>
+      <a class="language" href={otherPath} lang={other === 'zh' ? 'zh-CN' : 'en'} aria-label={other === 'zh' ? '切换到中文' : 'Switch to English'}>{other === 'zh' ? '中文' : 'EN'}</a>
+    </header>
+    <main id="main" class="wrap"><slot /></main>
+    <footer class="site-footer wrap"><span>© {new Date().getUTCFullYear()} Jinlong Guo · Knowledge Reconstruction</span><a href="https://github.com/jinlongguo/jinlongguo.github.io">{t.github}</a></footer>
+  </body>
+</html>

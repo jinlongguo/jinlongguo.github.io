@@ -1,0 +1,10 @@
+---
+import { articlePath, dateLabel, copy, type Language } from '../lib/site';
+const { articles, lang } = Astro.props as { articles: any[]; lang: Language };
+---
+{articles.length ? <ul class="article-list">{articles.map(article => <li>
+  <time datetime={article.data.date.toISOString()}>{dateLabel(article.data.date, lang)}</time>
+  <h3><a href={articlePath(article)}>{article.data.title}</a></h3>
+  {article.data.summary && <p>{article.data.summary}</p>}
+  <div class="tags">{article.data.tags.map((tag: string) => <span>{tag}</span>)}</div>
+</li>)}</ul> : <p class="empty">{copy[lang].empty}</p>}

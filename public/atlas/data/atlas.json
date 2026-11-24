@@ -1,0 +1,5350 @@
+{
+  "version": "0.1.0",
+  "asOf": "2026-11-24",
+  "curator": "知识重构者（Knowledge Reconstruction）",
+  "sourceRowCount": 109,
+  "categories": [
+    {
+      "en": "Conferences & Workshops",
+      "zh": "会议与研讨会"
+    },
+    {
+      "en": "Journals & Publishing",
+      "zh": "期刊与出版"
+    },
+    {
+      "en": "Institutions & Communities",
+      "zh": "机构与共同体"
+    },
+    {
+      "en": "Funding & Policy",
+      "zh": "资助与政策"
+    },
+    {
+      "en": "Reports & Landscape Mapping",
+      "zh": "报告与研究地图"
+    },
+    {
+      "en": "Research Infrastructure",
+      "zh": "研究基础设施"
+    }
+  ],
+  "communities": [
+    "Metascience",
+    "AI / CS",
+    "Philosophy of Science",
+    "STS / Sociology",
+    "Science of Science",
+    "LIS / Research Information",
+    "Science Policy / Institutional Innovation"
+  ],
+  "themes": [
+    "科研过程与实践",
+    "科学认识论",
+    "科研评价与诚信",
+    "科研成果与传播",
+    "科研信息基础设施",
+    "科学制度与治理",
+    "AI 辅助元科学"
+  ],
+  "supplementaryLinks": [
+    {
+      "label": "Data & Society research series",
+      "url": "https://datasociety.net/research-library/ai-in-science/"
+    },
+    {
+      "label": "AI & Science workshop CFP",
+      "url": "https://aiscik.github.io/call-for-papers/"
+    },
+    {
+      "label": "JMIR article Derivative Epistemic Agency",
+      "url": "https://metascience.jmir.org/2026/1/e105907/"
+    },
+    {
+      "label": "aiXiv paper",
+      "url": "https://arxiv.org/abs/2508.15126"
+    },
+    {
+      "label": "UW–Madison lab profile",
+      "url": "https://ischool.wisc.edu/2026/03/04/the-metascience-research-lab-is-asking-big-questions-about-the-future-of-science-and-discovery/"
+    },
+    {
+      "label": "Astera competition",
+      "url": "https://astera.org/identifying-systemic-bottlenecks/"
+    },
+    {
+      "label": "META-MOMENT interactive atlas",
+      "url": "https://meta-moment.researchonresearch.org/"
+    },
+    {
+      "label": "META-MOMENT country studies",
+      "url": "https://meta-moment.researchonresearch.org/case-studies"
+    },
+    {
+      "label": "JST-CRDS Japanese report",
+      "url": "https://www.jst.go.jp/crds/report/CRDS-FY2025-RR-05.html"
+    },
+    {
+      "label": "JST-CRDS commentary",
+      "url": "https://www.jst.go.jp/crds/column/choryu/333.html"
+    }
+  ],
+  "records": [
+    {
+      "id": "r01-01",
+      "title": "Opportunities in Open Science, Metascience, and Artificial Intelligence",
+      "originalTitle": "Opportunities in Open Science, Metascience, and Artificial Intelligence",
+      "summary": "开放科学、元科学与AI交叉议程",
+      "date": "2025-03-26",
+      "end": null,
+      "sourceDate": "2025-03-26",
+      "years": [
+        2025
+      ],
+      "sourceContext": "US; Georgetown CSET, ORCA, NSF support",
+      "organizer": "Georgetown CSET；Open Research Community Accelerator（ORCA）；NSF 资助",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "CSET 的会后报告记载，35 位研究者、资助者与专家在华盛顿特区讨论开放科学与元科学。本条为会议记录，同名报告另列。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://cset.georgetown.edu/publication/opportunities-in-open-science-metascience-and-artificial-intelligence/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://doi.org/10.51593/20250008"
+        }
+      ],
+      "sourceRows": [
+        "1.1"
+      ],
+      "originalSummary": "开放科学、元科学与AI交叉议程",
+      "related": [
+        "r10-02",
+        "r08-10"
+      ]
+    },
+    {
+      "id": "r01-02",
+      "title": "Metascience 2025",
+      "originalTitle": "Metascience 2025",
+      "summary": "科研制度、方法、AI对科学系统影响",
+      "date": "2025-06-30",
+      "end": "2025-07-02",
+      "sourceDate": "2025-06",
+      "years": [
+        2025
+      ],
+      "sourceContext": "UK; UCL, COS, RoRI",
+      "organizer": "Research on Research Institute；Center for Open Science；会址 University College London",
+      "countries": [
+        "英国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "学术会议",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "UCL 的会后报道与会议议程共同确认，伦敦会议由 6 月延续至 7 月。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://nomadit.co.uk/conference/metascience2025/panels"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.ucl.ac.uk/engineering/news/2025/jul/metascience-2025-conference-gathers-global-leaders-reimagine-research-systems"
+        }
+      ],
+      "sourceRows": [
+        "1.2"
+      ],
+      "originalSummary": "科研制度、方法、AI对科学系统影响"
+    },
+    {
+      "id": "r01-03",
+      "title": "Open Conference of AI Agents for Science 2025",
+      "originalTitle": "Open Conference of AI Agents for Science",
+      "summary": "AI作者、AI审稿、科研发表实验",
+      "date": "2025-10-22",
+      "end": null,
+      "sourceDate": "2025-10",
+      "years": [
+        2025
+      ],
+      "sourceContext": "US; Stanford et al.",
+      "organizer": "James Zou、Owen Queen、Nitya Thakkar、Eric Sun（Stanford）与 Federico Bianchi（Together AI）",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "学术会议",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播",
+        "科学制度与治理"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "会议官网提供完整录像与录用论文。会议在线举行，美国指组织团队所在地。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://agents4science.stanford.edu/"
+        }
+      ],
+      "sourceRows": [
+        "1.3"
+      ],
+      "originalSummary": "AI作者、AI审稿、科研发表实验"
+    },
+    {
+      "id": "r01-04",
+      "title": "The Craft of Science with AI: Evidence, Judgment, and Practice",
+      "originalTitle": "The Craft of Science with AI: Evidence, Judgment, and Practice",
+      "summary": "科研实践、证据、判断、默会知识",
+      "date": "2026-03-19",
+      "end": "2026-03-20",
+      "sourceDate": "2026-03-19–20",
+      "years": [
+        2026
+      ],
+      "sourceContext": "US; Data & Society",
+      "organizer": "Data & Society",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "Philosophy of Science",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "原始公告明确两天均在线举行，美国指主办机构所在地。主办方公开了 3 月 19 日圆桌录像与文字稿。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://datasociety.net/news-events/the-craft-of-science-with-ai-evidence-judgment-and-practice/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://archived.datasociety.net/announcements/2025/11/05/the-craft-of-science-with-ai-evidence-judgment-and-practice/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.youtube.com/watch?v=WLmd8VOzaIQ"
+        }
+      ],
+      "sourceRows": [
+        "1.4"
+      ],
+      "originalSummary": "科研实践、证据、判断、默会知识"
+    },
+    {
+      "id": "r01-05",
+      "title": "AI and Social Research: Empathic AI, Metascience, and Methodology",
+      "originalTitle": "AI and Social Research: Empathic AI, Metascience, and Methodology",
+      "summary": "社会科学、AI与元科学方法",
+      "date": "2026-06-03",
+      "end": "2026-06-04",
+      "sourceDate": "2026-06-03–04",
+      "years": [
+        2026
+      ],
+      "sourceContext": "US; Penn State",
+      "organizer": "Penn State Consortium on Moral Decision-Making；Center for Social Data Analytics",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "Philosophy of Science",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "AI 辅助元科学"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "Penn State 的会后回顾记录了报告、圆桌和海报交流，讨论 AI 与元科学、社会研究方法及共情。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ssri.psu.edu/events/ai-and-social-research-empathic-ai-metascience-and-methodology"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://moralconsortium.psu.edu/research-updates/ai-social-research-conference-recap/"
+        }
+      ],
+      "sourceRows": [
+        "1.5"
+      ],
+      "originalSummary": "社会科学、AI与元科学方法"
+    },
+    {
+      "id": "r01-06",
+      "title": "Metascience & AI Summer School 2026",
+      "originalTitle": "Metascience & AI Summer School 2026",
+      "summary": "AI Metascience Fellows交流",
+      "date": "2026-07-27",
+      "end": "2026-07-30",
+      "sourceDate": "2026-07-27–30",
+      "years": [
+        2026
+      ],
+      "sourceContext": "US; Sloan, UKRI, SSHRC",
+      "organizer": "Sloan、UKRI、SSHRC（研究员资助方）",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "暑期学校",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "项目网站载有马萨诸塞州剑桥的日程与场地，参与者 Niall Curry 的公开回顾印证了活动的举行。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://metascience-ai-ss.sloan.org/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.linkedin.com/posts/niall-curry-linguistics_i-have-been-reflecting-on-the-week-in-boston-activity-7488900311835709440-puQM"
+        }
+      ],
+      "sourceRows": [
+        "1.6"
+      ],
+      "originalSummary": "AI Metascience Fellows交流",
+      "related": [
+        "r09-01"
+      ]
+    },
+    {
+      "id": "r01-07",
+      "title": "AI for Frontier & Meta Science",
+      "originalTitle": "AI for Frontier & Meta Science",
+      "summary": "AI-first Science、基础设施、新型组织",
+      "date": "2026-09-29",
+      "end": "2026-09-30",
+      "sourceDate": "2026-09-29–30",
+      "years": [
+        2026
+      ],
+      "sourceContext": "US; Foresight Institute",
+      "organizer": "Foresight Institute",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "科学制度与治理"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "主办方在年度影响报告中回顾了这场湾区研讨会，议题包括 AI 科研基础设施与研究资助。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://foresight.org/events/2026-ai-for-science-neuro-longevity-nano-metascience/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://foresight.org/wp-content/uploads/2026/11/Final-Foresight-40th-Impact-Report-web.pdf"
+        }
+      ],
+      "sourceRows": [
+        "1.7"
+      ],
+      "originalSummary": "AI-first Science、基础设施、新型组织"
+    },
+    {
+      "id": "r01-08",
+      "title": "AI for Meta-Science: Scaling and Organizing Science in the Age of AI Scientists",
+      "originalTitle": "AI for Meta-Science: Scaling and Organizing Science in the Age of AI Scientists",
+      "summary": "讨论 AI 科学家的研究成果如何接受同行评议，以及贡献认定、验证和资助机制如何调整。",
+      "date": "2026-12-13",
+      "end": null,
+      "sourceDate": "2026-12 planned",
+      "years": [
+        2026
+      ],
+      "sourceContext": "NeurIPS",
+      "organizer": "Prabhant Singh、Khuong T G Hieu、Hilde Weerts 等",
+      "countries": [
+        "法国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播",
+        "科学制度与治理"
+      ],
+      "status": "计划举行",
+      "verification": "已核实",
+      "evidence": "NeurIPS 已列入研讨会名单，工作坊公告确认巴黎会场与 12 月 13 日议程。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ai4metascience.org/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://blog.neurips.cc/2026/08/10/announcing-the-neurips-2026-workshops/"
+        }
+      ],
+      "sourceRows": [
+        "1.8"
+      ],
+      "originalSummary": "科研成果、credit、评价、资助治理"
+    },
+    {
+      "id": "r01-09",
+      "title": "AI & Science: Evolution or Extinction?",
+      "originalTitle": "AI & Science: Evolution or Extinction?",
+      "summary": "科学认识论、科研诚信、实践评价",
+      "date": "2026-12-12",
+      "end": null,
+      "sourceDate": "2026-12 planned",
+      "years": [
+        2026
+      ],
+      "sourceContext": "NeurIPS",
+      "organizer": "Savannah Thais、Nathan Suri、Lauren Greenspan、Max Hennick 等",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "Philosophy of Science"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论",
+        "科研评价与诚信"
+      ],
+      "status": "计划举行",
+      "verification": "已核实",
+      "evidence": "NeurIPS 工作坊名单与官网均列此活动，官网公布亚特兰大会场和 12 月 12 日日程。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://aiscik.github.io/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://blog.neurips.cc/2026/08/10/announcing-the-neurips-2026-workshops/"
+        },
+        {
+          "label": "AI & Science workshop CFP",
+          "url": "https://aiscik.github.io/call-for-papers/"
+        }
+      ],
+      "sourceRows": [
+        "1.9"
+      ],
+      "originalSummary": "科学认识论、科研诚信、实践评价"
+    },
+    {
+      "id": "r02-01",
+      "title": "The Reach and Limits of AI for Scientific Discovery",
+      "originalTitle": "The Reach and Limits of AI for Scientific Discovery",
+      "summary": "科学发现能力与局限",
+      "date": "2025-12-07",
+      "end": null,
+      "sourceDate": "2025",
+      "years": [
+        2025
+      ],
+      "sourceContext": "NeurIPS",
+      "organizer": "Max Welling、Marinka Zitnik、Carla P. Gomes、Yuanqi Du 等",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "会议日程与 NeurIPS 2025 的录像档案收录了这场关于 AI 科学发现能力边界的工作坊。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ai4sciencecommunity.github.io/neurips25.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://ai4sciencecommunity.github.io/neurips25/schedule"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://slideslive.com/neurips-2025/workshop-ai-for-science-the-reach-and-limits-of-ai-for-scientific-discovery"
+        }
+      ],
+      "sourceRows": [
+        "2.1"
+      ],
+      "originalSummary": "科学发现能力与局限"
+    },
+    {
+      "id": "r02-02",
+      "title": "Advancing Autonomous Scientific Discovery (A2SD)",
+      "originalTitle": "Advancing Autonomous Scientific Discovery (A2SD)",
+      "summary": "自主科研生态、设施与工作流",
+      "date": "2025-06-13",
+      "end": null,
+      "sourceDate": "2025–2026",
+      "years": [
+        2025,
+        2026
+      ],
+      "sourceContext": "Autonomous science",
+      "organizer": "Autonomous Science Network（系列活动网站）",
+      "countries": [
+        "德国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会系列",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研信息基础设施"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "系列记录包含汉堡两届独立工作坊。第一届为 2025 年 6 月 13 日，第二届为 2026 年 6 月 26 日。两届分别有会议出版物和报告材料。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://autonomousscience.org/workshops"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://autonomousscience.org/workshops/a2sd-2025/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://autonomousscience.org/workshops/a2sd-2026/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://impact.ornl.gov/en/publications/a2sd-accelerating-scientific-innovation-through-autonomous-discov/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://autonomousscience.org/files/workshops/a2sd-2026/26_06_ISC_Taufer_NSDF.pdf"
+        }
+      ],
+      "sourceRows": [
+        "2.2"
+      ],
+      "originalSummary": "自主科研生态、设施与工作流",
+      "occurrences": [
+        "2025-06-13",
+        "2026-06-26"
+      ]
+    },
+    {
+      "id": "r02-03",
+      "title": "AI for Scientific Research (AI4Research)",
+      "originalTitle": "AI for Scientific Research (AI4Research)",
+      "summary": "Research Agent、科研评价、诚信",
+      "date": "2026-01-26",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "AAAI",
+      "organizer": "Arman Cohan、Bryan Hooi、Hui Chen、Manasi Patwardhan 等",
+      "countries": [
+        "新加坡"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研评价与诚信",
+        "AI 辅助元科学"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "工作坊官网列出 Singapore EXPO 会场、组织者和会议录像。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ai4research-workshop.github.io/2026/"
+        }
+      ],
+      "sourceRows": [
+        "2.3"
+      ],
+      "originalSummary": "Research Agent、科研评价、诚信"
+    },
+    {
+      "id": "r02-04",
+      "title": "AI Scientists: Tools, Co-authors, or Founders?",
+      "originalTitle": "AI Scientists: Tools, Co-authors, or Founders?",
+      "summary": "AI科研角色、知识贡献、治理",
+      "date": "2026-07-11",
+      "end": null,
+      "sourceDate": "2026-07-11",
+      "years": [
+        2026
+      ],
+      "sourceContext": "ICML",
+      "organizer": "Max Welling、Marinka Zitnik、Mengdi Wang 等",
+      "countries": [
+        "韩国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "Philosophy of Science"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论",
+        "科研评价与诚信",
+        "科学制度与治理"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "正式日程给出 7 月 11 日首尔会场，获奖数据集 OpenDiscoveryTrace 的公开项目页记录了该届工作坊的颁奖结果。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ai4sciencecommunity.github.io/icml26.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://ai4sciencecommunity.github.io/icml26/schedule"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://github.com/aayambansal/OpenDiscoveryTrace"
+        }
+      ],
+      "sourceRows": [
+        "2.4"
+      ],
+      "originalSummary": "AI科研角色、知识贡献、治理",
+      "related": [
+        "r06-06"
+      ]
+    },
+    {
+      "id": "r02-05",
+      "title": "Multi-Agent AI for Scientific Discovery",
+      "originalTitle": "Multi-Agent AI for Scientific Discovery",
+      "summary": "多Agent协作与评价",
+      "date": "2026-12-08",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "ELLIS Unconference",
+      "organizer": "Yali Du；Jun Wang",
+      "countries": [
+        "法国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研评价与诚信"
+      ],
+      "status": "计划举行",
+      "verification": "已核实",
+      "evidence": "工作坊官网列出巴黎 ELLIS UnConference 会址、两位组织者与 12 月 8 日日程。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://yalidu.github.io/ellis-multi-agent-workshop-2026/"
+        }
+      ],
+      "sourceRows": [
+        "2.5"
+      ],
+      "originalSummary": "多Agent协作与评价"
+    },
+    {
+      "id": "r02-06",
+      "title": "Agentic AI for Science",
+      "originalTitle": "Agentic AI for Science",
+      "summary": "Agent科研实践与软件工程",
+      "date": "2026-10-07",
+      "end": "2026-10-08",
+      "sourceDate": "2026-10-07–08",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Germany; Max Planck Computing and Data Facility",
+      "organizer": "Max Planck Computing and Data Facility（MPCDF）",
+      "countries": [
+        "德国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研信息基础设施"
+      ],
+      "status": "举办情况待核",
+      "verification": "部分核实",
+      "evidence": "MPCDF 的议程确认了加兴会场及两天的教程和报告安排，实际举办情况仍待会后材料佐证。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://plan.events.mpg.de/event/831/overview"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.mpcdf.mpg.de/events/46569/2825"
+        }
+      ],
+      "sourceRows": [
+        "2.6"
+      ],
+      "originalSummary": "Agent科研实践与软件工程"
+    },
+    {
+      "id": "r02-07",
+      "title": "AGENT4SC: Workshop on Agentic AI for Large-scale Science",
+      "originalTitle": "AGENT4SC: Workshop on Agentic AI for Large-scale Science",
+      "summary": "大规模Agent、可重复性与基础设施",
+      "date": "2026-09-28",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "IEEE eScience",
+      "organizer": "Amal Gueroudji、Bogdan Nicolae、Renan Souza 等",
+      "countries": [
+        "意大利"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研评价与诚信",
+        "科研信息基础设施"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "IEEE eScience 的议程和嘉宾 Ana Gainaru 的参会记录共同确认，那不勒斯工作坊于 9 月 28 日举行。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://agent4sc.github.io/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.escience-conference.org/2026/timetable"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://ana-gainaru.com/talks/2026-09-28-escience"
+        }
+      ],
+      "sourceRows": [
+        "2.7"
+      ],
+      "originalSummary": "大规模Agent、可重复性与基础设施"
+    },
+    {
+      "id": "r02-08",
+      "title": "From Reasoning to Agency: Learning, Acting, and Adapting with Foundation Models",
+      "originalTitle": "From Reasoning to Agency",
+      "summary": "AI4Science、AI4Research、Agent",
+      "date": "2026-11-10",
+      "end": null,
+      "sourceDate": "2026-11-09–10",
+      "years": [
+        2026
+      ],
+      "sourceContext": "AACL-IJCNLP, Zhuhai",
+      "organizer": "Jiaheng Liu、Yuxiang Ren、Zhen Zhang 等",
+      "countries": [
+        "中国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研信息基础设施"
+      ],
+      "status": "举办情况待核",
+      "verification": "部分核实",
+      "evidence": "AACL 正式议程把 W11 安排在 11 月 10 日，形式为线下加线上。科学发现属于征稿应用方向之一。实际举行情况待核。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://agent-aacl-workshop.github.io/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://2026.aaclnet.org/program/workshops/"
+        }
+      ],
+      "sourceRows": [
+        "2.8"
+      ],
+      "originalSummary": "AI4Science、AI4Research、Agent"
+    },
+    {
+      "id": "r02-09",
+      "title": "Verification in the Age of AI Scientists",
+      "originalTitle": "Verification in the Age of AI Scientists",
+      "summary": "科研成果验证与可信性",
+      "date": "2026-12-12",
+      "end": null,
+      "sourceDate": "2026-12 planned",
+      "years": [
+        2026
+      ],
+      "sourceContext": "NeurIPS",
+      "organizer": "Marinka Zitnik、Priya Donti、Yuanqi Du 等",
+      "countries": [
+        "澳大利亚"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研评价与诚信"
+      ],
+      "status": "计划举行",
+      "verification": "已核实",
+      "evidence": "NeurIPS 确认悉尼场次。工作坊暂定议程列出 12 月 12 日、Grand Ballroom 会场及各场报告，日期以最终议程为准。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ai4sciencecommunity.github.io/neurips26.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://blog.neurips.cc/2026/08/10/announcing-the-neurips-2026-workshops/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://ai4sciencecommunity.github.io/neurips26/schedule.html"
+        }
+      ],
+      "sourceRows": [
+        "2.9"
+      ],
+      "originalSummary": "科研成果验证与可信性"
+    },
+    {
+      "id": "r02-10",
+      "title": "AutoResearch: End-to-End Autonomous Scientific Research with Robot and AI Scientists",
+      "originalTitle": "AutoResearch: End-to-End Autonomous Scientific Research with Robot and AI Scientists",
+      "summary": "端到端科研自动化、机器人实验",
+      "date": "2026-12",
+      "end": null,
+      "sourceDate": "2026-12 planned",
+      "years": [
+        2026
+      ],
+      "sourceContext": "NeurIPS",
+      "organizer": "Guowei Huang、Xiang Hu、Haokun Liu 等",
+      "countries": [],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研信息基础设施"
+      ],
+      "status": "计划举行",
+      "verification": "部分核实",
+      "evidence": "项目网页公告计划于 12 月举办，具体日期、地点尚待确认。NeurIPS 公布的接收名单中未检得同名工作坊，官方隶属关系待核。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://autoresearch2026.github.io/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://blog.neurips.cc/2026/08/10/announcing-the-neurips-2026-workshops/"
+        }
+      ],
+      "sourceRows": [
+        "2.10"
+      ],
+      "originalSummary": "端到端科研自动化、机器人实验"
+    },
+    {
+      "id": "r02-11",
+      "title": "Agentic AI for Biological Discovery: Toward Closed-Loop Life-Science Intelligence",
+      "originalTitle": "Agentic AI for Biological Discovery",
+      "summary": "生物医药Agent、闭环实验、证据",
+      "date": "2026-12-11",
+      "end": null,
+      "sourceDate": "2026-12 planned",
+      "years": [
+        2026
+      ],
+      "sourceContext": "NeurIPS",
+      "organizer": "Mengdi Wang、Le Song、Xiner Li、Masatoshi Uehara 等",
+      "countries": [
+        "澳大利亚"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研评价与诚信"
+      ],
+      "status": "计划举行",
+      "verification": "已核实",
+      "evidence": "主会名单及工作坊网站确认悉尼场次，官网公布 12 月 11 日日程。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://agenticls.github.io/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://blog.neurips.cc/2026/08/10/announcing-the-neurips-2026-workshops/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://agenticls.github.io/organizers.html"
+        }
+      ],
+      "sourceRows": [
+        "2.11"
+      ],
+      "originalSummary": "生物医药Agent、闭环实验、证据"
+    },
+    {
+      "id": "r03-01",
+      "title": "Philosophy Sees the Algorithm: Reconsidering Knowledge and Community in AI-Based Science",
+      "originalTitle": "Philosophy Sees the Algorithm: Reconsidering Knowledge and Community in AI-Based Science",
+      "summary": "科学知识、认识论、共同体",
+      "date": "2025-12-11",
+      "end": "2025-12-12",
+      "sourceDate": "2025-12-11–12",
+      "years": [
+        2025
+      ],
+      "sourceContext": "US; Ohio State University",
+      "organizer": "Yuan-Sen Ting、Siyu Yao、Andre Curtis-Trudel",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Philosophy of Science",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论"
+      ],
+      "status": "举办情况待核",
+      "verification": "部分核实",
+      "evidence": "俄亥俄州立大学已将活动列入历届工作坊档案。议程列出哥伦布校址及两天的讨论安排，实际举办情况仍待会后资料印证。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ccapp.osu.edu/archive-workshops/philosophy-sees-algorithm-reconsidering-knowledge-and-community-ai-based-science"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://ccapp.osu.edu/archive-workshops"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://tingyuansen.github.io/Philosophy_in_AI_Based_Science/"
+        }
+      ],
+      "sourceRows": [
+        "3.1"
+      ],
+      "originalSummary": "科学知识、认识论、共同体"
+    },
+    {
+      "id": "r03-02",
+      "title": "AI+Science: Accelerating Discovery",
+      "originalTitle": "AI+Science: Accelerating Discovery",
+      "summary": "跨学科科研实践",
+      "date": "2026-05-05",
+      "end": null,
+      "sourceDate": "2026-05-05",
+      "years": [
+        2026
+      ],
+      "sourceContext": "US; Stanford HAI",
+      "organizer": "Stanford Institute for Human-Centered AI (HAI)",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "学术会议",
+      "communities": [
+        "AI / CS",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "Stanford HAI 标示活动已结束，公开的开场录像说明会议于 5 月 5 日在斯坦福校园举行。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://hai.stanford.edu/events/ai-science-accelerating-discovery"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.youtube.com/watch?v=kLAmlNeUd8A"
+        }
+      ],
+      "sourceRows": [
+        "3.2"
+      ],
+      "originalSummary": "跨学科科研实践"
+    },
+    {
+      "id": "r03-03",
+      "title": "Ignorance, Opacity, and Dependence: Epistemic Challenges for Scientists in the Age of AI",
+      "originalTitle": "Ignorance, Opacity, and Dependence: Epistemic Challenges for Scientists in the Age of AI",
+      "summary": "依赖、认识论分工、解释",
+      "date": "2026-06-01",
+      "end": "2026-06-02",
+      "sourceDate": "2026-06-01–02",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Philosophy of science",
+      "organizer": "Institute of Philosophy, Czech Academy of Sciences",
+      "countries": [
+        "捷克"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Philosophy of Science",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论"
+      ],
+      "status": "举办情况待核",
+      "verification": "部分核实",
+      "evidence": "捷克科学院哲学研究所列出布拉格会址、组织者与议程；已查到的是活动预告。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://philevents.org/event/show/147385"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://flu.cas.cz/en/?catid=157&id=4890%3Aignorance-opacity-and-dependence&view=article"
+        }
+      ],
+      "sourceRows": [
+        "3.3"
+      ],
+      "originalSummary": "依赖、认识论分工、解释"
+    },
+    {
+      "id": "r03-04",
+      "title": "AI x Philosophy: Bridging Minds and Machines",
+      "originalTitle": "AI x Philosophy: Bridging Minds and Machines",
+      "summary": "科学哲学、推理与认识论",
+      "date": "2026-08-16",
+      "end": "2026-08-21",
+      "sourceDate": "2026-08-16–21",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Germany; Dagstuhl",
+      "organizer": "Alexander Bird、Vincent Fortuin、Bojana Grujicic、Mohammad Emtiyaz Khan",
+      "countries": [
+        "德国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "AI / CS",
+        "Philosophy of Science"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论"
+      ],
+      "status": "举办情况待核",
+      "verification": "部分核实",
+      "evidence": "Dagstuhl 第 26341 号研讨会页面列出会期、议题及参会人名单；实际举办情况仍待会后报告印证。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26341"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.dagstuhl.de/26341"
+        }
+      ],
+      "sourceRows": [
+        "3.4"
+      ],
+      "originalSummary": "科学哲学、推理与认识论"
+    },
+    {
+      "id": "r03-05",
+      "title": "PAINT Workshop on Philosophy of Artificial Intelligence",
+      "originalTitle": "PAINT Workshop: Philosophy of AI and Science",
+      "summary": "AI哲学、科学哲学、元科学",
+      "date": "2026-09-25",
+      "end": "2026-09-26",
+      "sourceDate": "2026-09-25–26",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Canada; University of Toronto",
+      "organizer": "Philosophy of Artificial Intelligence Network Talks (PAINT)",
+      "countries": [
+        "加拿大"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "Philosophy of Science",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论"
+      ],
+      "status": "举办情况待核",
+      "verification": "部分核实",
+      "evidence": "PhilEvents 与 PAINT 的征稿预告一致，地点为多伦多大学，会议主题为 Philosophy of AI and Science。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://philevents.org/event/show/151221"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://sites.google.com/view/paint-series/home"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://philevents.org/event/show/151217"
+        }
+      ],
+      "sourceRows": [
+        "3.5"
+      ],
+      "originalSummary": "AI哲学、科学哲学、元科学"
+    },
+    {
+      "id": "r03-06",
+      "title": "AI and Public Science",
+      "originalTitle": "AI and Public Science",
+      "summary": "认识论、方法论、政治经济学",
+      "date": "2026-11-09",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Europe; ENGAGE.EU",
+      "organizer": "ENGAGE.EU",
+      "countries": [
+        "意大利"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Philosophy of Science",
+        "STS / Sociology",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论",
+        "科学制度与治理"
+      ],
+      "status": "举办情况待核",
+      "verification": "部分核实",
+      "evidence": "联盟的活动页将会址列为罗马 LUISS Guido Carli University。已核实征集公告及会期，实际举办情况待核。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.research-community-engage.eu/event/call-applications-ai-and-public-science"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.engageuniversity.eu/event/ai-and-public-science-workshop/"
+        }
+      ],
+      "sourceRows": [
+        "3.6"
+      ],
+      "originalSummary": "认识论、方法论、政治经济学"
+    },
+    {
+      "id": "r03-07",
+      "title": "MetaScience, Scientific Inquiry, and Agents",
+      "originalTitle": "MetaScience, Scientific Inquiry, and Agents",
+      "summary": "地球科学研究实践、认识论与Agent",
+      "date": "2026-09-15",
+      "end": null,
+      "sourceDate": "2026-09 onward",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Geoscience community",
+      "organizer": "Denolle Lab, University of Washington",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "系列活动",
+      "communities": [
+        "AI / CS",
+        "Philosophy of Science",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "公开课程手册记录了 9 月 15 日及 22 日的研讨，并跟踪科研过程编码与智能体设计进展。起点取首次有记录的会议。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://denolle-lab.github.io/metascience-and-AI/index.html"
+        }
+      ],
+      "sourceRows": [
+        "3.7"
+      ],
+      "originalSummary": "地球科学研究实践、认识论与Agent",
+      "related": [
+        "r08-05",
+        "r10-07"
+      ]
+    },
+    {
+      "id": "r04-01",
+      "title": "The 2nd International Workshop on Artificial Intelligence for the Science of Science (AI4SciSci)",
+      "originalTitle": "AI4SciSci second workshop",
+      "summary": "AI与Science of Science",
+      "date": "2025-12-15",
+      "end": null,
+      "sourceDate": "2025",
+      "years": [
+        2025
+      ],
+      "sourceContext": "JCDL",
+      "organizer": "Jian Wu、Sarah Rajtmajer、Yi He",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "AI / CS",
+        "Science of Science",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "AI 辅助元科学"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "JCDL 的 2025 届目录和 CEUR 第 4161 卷论文集对应第二届工作坊。举办地为伊利诺伊州迪卡尔布。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ai4scisci.github.io/2026/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://2025.jcdl.org/accepted-workshops-and-tutorials/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://ai4scisci.github.io/2025/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://ceur-ws.org/Vol-4161/"
+        }
+      ],
+      "sourceRows": [
+        "4.1"
+      ],
+      "originalSummary": "AI与Science of Science"
+    },
+    {
+      "id": "r04-02",
+      "title": "The 3rd International Workshop on Artificial Intelligence for the Science of Science (AI4SciSci)",
+      "originalTitle": "AI4SciSci third workshop",
+      "summary": "AI辅助科学系统研究",
+      "date": "2026-10-13",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "AI, Science of Science",
+      "organizer": "Jian Wu、Sarah Rajtmajer、Yi He",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "AI / CS",
+        "Science of Science",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "AI 辅助元科学"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "会议页发布多场报告的讲稿，列出得克萨斯州弗里斯科会场和线上参与方式；JCDL 工作坊目录确认组织者。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ai4scisci.github.io/2026/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://2026.jcdl.org/workshops-and-tutorials/"
+        }
+      ],
+      "sourceRows": [
+        "4.2"
+      ],
+      "originalSummary": "AI辅助科学系统研究"
+    },
+    {
+      "id": "r04-03",
+      "title": "6th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2026)",
+      "originalTitle": "Sci-K: Scientific Knowledge — Representation, Discovery, and Assessment",
+      "summary": "科研知识图谱、表示、评价",
+      "date": "2026-10-26",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "ISWC",
+      "organizer": "Sci-K Organising Committee",
+      "countries": [
+        "意大利"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "AI / CS",
+        "Science of Science",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播",
+        "科研信息基础设施"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "CEUR 第 4291 卷收录第六届 Sci-K 的会议论文，标明其与 ISWC 同期在巴里举办。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://sci-k.github.io/2026/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://ceur-ws.org/Vol-4291/"
+        }
+      ],
+      "sourceRows": [
+        "4.3"
+      ],
+      "originalSummary": "科研知识图谱、表示、评价"
+    },
+    {
+      "id": "r04-04",
+      "title": "9th World Conference on Research Integrity",
+      "originalTitle": "World Conference on Research Integrity",
+      "summary": "AI、科研诚信、治理",
+      "date": "2026-05-03",
+      "end": "2026-05-06",
+      "sourceDate": "2026-05",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Research integrity",
+      "organizer": "WCRI Society、World Conferences on Research Integrity Foundation (WCRIF)",
+      "countries": [
+        "加拿大"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "学术会议",
+      "communities": [
+        "Metascience",
+        "LIS / Research Information",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科学制度与治理"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "JST 会后报告确认第九届大会在温哥华举行。人工智能、研究安全及原住民知识体系是三项主要议题。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.jst.go.jp/kousei_p/en/event_reports/20260503_wcri_e.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://wcri2026.org/wp-content/uploads/2026/01/WCRI-2026Terms-and-Conditions.pdf"
+        }
+      ],
+      "sourceRows": [
+        "4.4"
+      ],
+      "originalSummary": "AI、科研诚信、治理"
+    },
+    {
+      "id": "r04-05",
+      "title": "9th JST/STM Seminar: Trust in Scientific Research in the Era of Artificial Intelligence: Research Integrity, Transparency and Editorial Practice",
+      "originalTitle": "Trust in Scientific Research in the Era of Artificial Intelligence",
+      "summary": "AI出版、评议、诚信",
+      "date": "2026-10-27",
+      "end": null,
+      "sourceDate": "2026-10-27",
+      "years": [
+        2026
+      ],
+      "sourceContext": "JST, STM",
+      "organizer": "Japan Science and Technology Agency (JST)、International Association of STM Publishers (STM)",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "LIS / Research Information",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播",
+        "科学制度与治理"
+      ],
+      "status": "举办情况待核",
+      "verification": "部分核实",
+      "evidence": "JST 与 STM 发布线上联合研讨会议程；地区指组织方 JST 所在地。实际举办情况待会后记录确认。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://stm-assoc.org/events/9th-jst-stm-seminar/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://jipsti.jst.go.jp/information/2026/10/1499.html"
+        }
+      ],
+      "sourceRows": [
+        "4.5"
+      ],
+      "originalSummary": "AI出版、评议、诚信"
+    },
+    {
+      "id": "r05-01",
+      "title": "Metascience Meetup 2026",
+      "originalTitle": "Metascience Meetup 2026",
+      "summary": "元科学共同体、政策与产业",
+      "date": "2026-03-14",
+      "end": "2026-03-15",
+      "sourceDate": "2026-03-14–15",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Japan",
+      "organizer": "跨机构志愿者与研究中心",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "学术会议",
+      "communities": [
+        "Metascience",
+        "Science of Science",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "RoRI 的会后报道和日本研究会的活动档案确认会议在东京日本科学未来馆举办。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://researchonresearch.org/seizing-the-meta-moment-in-japan/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://sites.google.com/view/metascience/home"
+        }
+      ],
+      "sourceRows": [
+        "5.1"
+      ],
+      "originalSummary": "元科学共同体、政策与产业"
+    },
+    {
+      "id": "r05-02",
+      "title": "第7回メタサイエンス勉強会：AI for RA",
+      "originalTitle": "第7回メタサイエンス勉強会：AI for RA",
+      "summary": "AI 辅助科研管理（Research Administration）的实践与交流",
+      "date": "2026-05-20",
+      "end": null,
+      "sourceDate": "2026-05-20",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Japan; Metascience Study Group",
+      "organizer": "メタサイエンス研究会",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "系列活动",
+      "communities": [
+        "Metascience",
+        "Science of Science",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "研究会的会后记录确认以 Zoom 与 YouTube 直播举办。RA 指 Research Administration，主题为 AI 辅助科研管理。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://sites.google.com/view/metascience/home"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://sites.google.com/view/metascience/%E9%81%8E%E5%8E%BB%E3%81%AE%E6%B4%BB%E5%8B%95/20260520"
+        }
+      ],
+      "sourceRows": [
+        "5.2"
+      ],
+      "originalSummary": "AI与科研评价",
+      "related": [
+        "r08-08"
+      ]
+    },
+    {
+      "id": "r05-03",
+      "title": "AI for Science の新たな地平",
+      "originalTitle": "AI for Science の新たな地平",
+      "summary": "自主AI Scientist与科研范式",
+      "date": "2026-06-10",
+      "end": null,
+      "sourceDate": "2026-06",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Japan; JSAI, JST-CRDS",
+      "organizer": "JST Center for Research and Development Strategy (CRDS)",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "学术会议",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "JST-CRDS 公布了 JSAI 2026 的 KS-4 专场议程及会后报告。活动在群马县高崎市与线上同步举行。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.jst.go.jp/crds/sympo/JSAI2026_ai4s/index.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.jst.go.jp/crds/report/CRDS-FY2026-SY-02.html"
+        }
+      ],
+      "sourceRows": [
+        "5.3"
+      ],
+      "originalSummary": "自主AI Scientist与科研范式",
+      "related": [
+        "r10-03",
+        "r10-08",
+        "r08-09"
+      ]
+    },
+    {
+      "id": "r05-04",
+      "title": "SIG-SciMeta activities",
+      "originalTitle": "SIG-SciMeta activities",
+      "summary": "AI Scientist与元科学",
+      "date": "2026",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Japan; JSAI",
+      "organizer": "日本人工知能学会（JSAI）SIG-SciMeta",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "系列活动",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "Science of Science"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "研究会将 6 月的专题场及 6 月、8 月的两次论文读书会列入历次活动。此条汇总系列活动。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://sci-meta.org/index-en.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://sci-meta.org/events.html"
+        }
+      ],
+      "sourceRows": [
+        "5.4"
+      ],
+      "originalSummary": "AI Scientist与元科学",
+      "related": [
+        "r08-07"
+      ]
+    },
+    {
+      "id": "r05-05",
+      "title": "Japan Scientist AI Jam Session",
+      "originalTitle": "Japan Scientist AI Jam Session",
+      "summary": "跨学科人机科研协作",
+      "date": "2026-10-27",
+      "end": "2026-10-29",
+      "sourceDate": "2026-10-27–29",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Japan; RIKEN AGIS",
+      "organizer": "RIKEN Advanced General Intelligence for Science Program (AGIS)",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "研讨会",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理"
+      ],
+      "status": "举办情况待核",
+      "verification": "部分核实",
+      "evidence": "RIKEN 的活动预告列出东京与神户场次。页面链接的往届总结对应 2025 年，2026 年的会后情况待核。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.r-ccs.riken.jp/en/outreach/events/20261027-29/index.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.riken.jp/en/news_pubs/events/lectures/20261027_1/index.html"
+        }
+      ],
+      "sourceRows": [
+        "5.5"
+      ],
+      "originalSummary": "跨学科人机科研协作",
+      "related": [
+        "r08-18"
+      ]
+    },
+    {
+      "id": "r05-06",
+      "title": "中国科学院大学研究生学术论坛：科学智能分论坛",
+      "originalTitle": "中国科学院大学研究生学术论坛：科学智能分论坛",
+      "summary": "科研范式与跨学科创新",
+      "date": "2025-11-08",
+      "end": null,
+      "sourceDate": "2025-11",
+      "years": [
+        2025
+      ],
+      "sourceContext": "China; UCAS, CAS",
+      "organizer": "中国科学院大学主办，中国科学院计算机网络信息中心承办",
+      "countries": [
+        "中国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "论坛",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "承办方报道确认 11 月 8 日在北京举行，并记载学生报告、分论坛及奖项。11 月 19 日为报道日期。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://cnic.cas.cn/yjsjy/pygl/202511/t20251119_8014065.html"
+        }
+      ],
+      "sourceRows": [
+        "5.6"
+      ],
+      "originalSummary": "科研范式与跨学科创新"
+    },
+    {
+      "id": "r05-07",
+      "title": "构建新型科研能力：人工智能赋能科研范式变革",
+      "originalTitle": "构建新型科研能力：人工智能赋能科研范式变革",
+      "summary": "自主科学发现、人机协作、伦理",
+      "date": "2026-05-12",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "China; 世界数字教育大会平行会议",
+      "organizer": "人工智能开放联盟、西湖大学（据教育部活动页）",
+      "countries": [
+        "中国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "学术会议",
+      "communities": [
+        "AI / CS",
+        "STS / Sociology",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "清华大学的会后报道确认该平行会议于 5 月 12 日上午在杭州举行，教育部活动页补充组织信息。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ir.pku.edu.cn/handle/20.500.11897/802142"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.tsinghua.edu.cn/info/1177/126111.htm"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2026/2026_zt05/pxhy/pxhy_gjxxkynl/202605/t20260508_1435921.html"
+        }
+      ],
+      "sourceRows": [
+        "5.7"
+      ],
+      "originalSummary": "自主科学发现、人机协作、伦理"
+    },
+    {
+      "id": "r05-08",
+      "title": "人工智能赋能科技创新：范式变革与风险挑战",
+      "originalTitle": "人工智能赋能科技创新：范式变革与风险挑战",
+      "summary": "认识论、AI科学家、治理",
+      "date": "2026-11-06",
+      "end": "2026-11-08",
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "China; 科技方法论年会",
+      "organizer": "华北电力大学（保定）大数据与哲学社会科学实验室主办，中国自然辩证法研究会科技方法论专业委员会承办",
+      "countries": [
+        "中国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "学术会议",
+      "communities": [
+        "Philosophy of Science",
+        "STS / Sociology",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论",
+        "科学制度与治理"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "11 月 9 日发布的学术年会综述确认会议在河北保定召开，记录了关于知识可靠性及科研主体性的报告。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://jdn.ucas.ac.cn/home/dynamics/view/id/350"
+        }
+      ],
+      "sourceRows": [
+        "5.8"
+      ],
+      "originalSummary": "认识论、AI科学家、治理"
+    },
+    {
+      "id": "r05-09",
+      "title": "第三届科学智能（AI4S）论坛——科学智能与社会智能：双轮驱动·互启共进",
+      "originalTitle": "第三届科学智能论坛：科学智能与社会智能",
+      "summary": "自然及社会科学科研范式",
+      "date": "2026-10-22",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "China; CCF, CNCC",
+      "organizer": "复旦大学（CNCC 2026 主题论坛）",
+      "countries": [
+        "中国"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "论坛",
+      "communities": [
+        "AI / CS",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "复旦大学会后报道确认该论坛于 10 月 22 日在成都举办；原活动公告的 8 月 29 日为预告发布日期。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.ccf.org.cn/Media_list/cncc/2026-08-29/928394.shtml"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://cs.fudan.edu.cn/30/27/c24867a798759/page.htm"
+        }
+      ],
+      "sourceRows": [
+        "5.9"
+      ],
+      "originalSummary": "自然及社会科学科研范式"
+    },
+    {
+      "id": "r05-10",
+      "title": "The 8th International Conference on Distributed Artificial Intelligence (DAI 2026)",
+      "originalTitle": "Distributed Artificial Intelligence 2026",
+      "summary": "Agentic AI: science, systems, societies",
+      "date": "2026-11-29",
+      "end": "2026-12-02",
+      "sourceDate": "2026-11-29–12-02 planned",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Hong Kong; CityU",
+      "organizer": "DAI 2026，大会主席 Minming Li、Francesca Rossi",
+      "countries": [
+        "中国香港"
+      ],
+      "categories": [
+        0
+      ],
+      "type": "学术会议",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理"
+      ],
+      "status": "计划举行",
+      "verification": "已核实",
+      "evidence": "大会主页和研究轨道征稿页确认香港城市大学会场及会期。截至 11 月 24 日，会议尚未到预定日期。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://adai.ai/dai/2026/research-track.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://adai.ai/dai/2026/"
+        }
+      ],
+      "sourceRows": [
+        "5.10"
+      ],
+      "originalSummary": "Agentic AI: science, systems, societies"
+    },
+    {
+      "id": "r06-01",
+      "title": "JMIR Metascience and Research Integrity",
+      "originalTitle": "JMIR Metascience and Research Integrity",
+      "summary": "元科学与科研诚信",
+      "date": "2026",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "JMIR Publications",
+      "countries": [
+        "加拿大"
+      ],
+      "categories": [
+        1
+      ],
+      "type": "期刊",
+      "communities": [
+        "Metascience",
+        "Science of Science",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播",
+        "科学制度与治理"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "期刊于 2026 年创刊，围绕学术发表的质量、透明度和科研诚信。地区按出版社总部标注。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://metascience.jmir.org/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://metascience.jmir.org/about-journal/indexing-and-impact-factor"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://metascience.jmir.org/2026/1/e105907/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.jmirpublications.com/meet-the-team"
+        }
+      ],
+      "sourceRows": [
+        "6.1"
+      ],
+      "originalSummary": "元科学与科研诚信"
+    },
+    {
+      "id": "r06-02",
+      "title": "Technology in Scientific Publishing",
+      "originalTitle": "Technology in Scientific Publishing",
+      "summary": "JMIR专题；AI出版、评议、基础设施",
+      "date": "2026-06-23",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "JMIR Metascience and Research Integrity",
+      "countries": [
+        "加拿大"
+      ],
+      "categories": [
+        1
+      ],
+      "type": "期刊专题",
+      "communities": [
+        "Metascience",
+        "Science of Science",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播",
+        "科研信息基础设施"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "日期为专题征稿公告日。该专题探讨科研出版中的智能体工作流、开放评议和可信基础设施，专题目录已有文章。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://metascience.jmir.org/announcements/722"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://metascience.jmir.org/announcements"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://metascience.jmir.org/themes/1762/2026"
+        }
+      ],
+      "sourceRows": [
+        "6.2"
+      ],
+      "originalSummary": "JMIR专题；AI出版、评议、基础设施"
+    },
+    {
+      "id": "r06-03",
+      "title": "Dædalus: AI & Science — What Is the Future of Discovery?",
+      "originalTitle": "Dædalus: AI & Science — What Is the Future of Discovery?",
+      "summary": "科学实践、方法、科研人员角色",
+      "date": "2026",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "American Academy of Arts & Sciences；特约编辑 James M. Manyika",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        1
+      ],
+      "type": "期刊专题",
+      "communities": [
+        "AI / CS",
+        "Philosophy of Science",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "《Dædalus》2026 年冬春合刊收录 33 位科学家的回应，讨论 AI 如何改变科学方法与科学家的角色。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.amacad.org/daedalus/ai-science-what-is-the-future-of-discovery"
+        }
+      ],
+      "sourceRows": [
+        "6.3"
+      ],
+      "originalSummary": "科学实践、方法、科研人员角色"
+    },
+    {
+      "id": "r06-04",
+      "title": "Science in the age of agentic AI",
+      "originalTitle": "Science in the Age of Agentic AI",
+      "summary": "Nature 专题集合，追踪科研智能体、自动化实验与科学家的角色变化。",
+      "date": "2026-09-23",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "Nature",
+      "countries": [],
+      "categories": [
+        1
+      ],
+      "type": "专题合集",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研成果与传播"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "Nature 专题聚合科研智能体、实验自动化等技术报道与评论。日期取自专题主页。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.nature.com/collections/dgghddeiag"
+        }
+      ],
+      "sourceRows": [
+        "6.4"
+      ],
+      "originalSummary": "Nature专题集合"
+    },
+    {
+      "id": "r06-05",
+      "title": "Generative AI and New Methods of Inquiry in Information Systems Research",
+      "originalTitle": "Generative AI and New Methods of Inquiry in Information Systems Research",
+      "summary": "ISR专刊征稿；科研方法与理论建构",
+      "date": "2026",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "Information Systems Research / INFORMS",
+      "countries": [],
+      "categories": [
+        1
+      ],
+      "type": "专刊征稿",
+      "communities": [
+        "STS / Sociology",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论"
+      ],
+      "status": "评审进行中",
+      "verification": "已核实",
+      "evidence": "专刊征稿把生成式 AI 作为研究合作者、工具或基础设施。2026 年 9 月 7 日截稿，征稿页预计 2027 年 5 月完成最终决定。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://pubsonline.informs.org/page/isre/calls-for-papers"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://pubsonline.informs.org/journal/isre"
+        }
+      ],
+      "sourceRows": [
+        "6.5"
+      ],
+      "originalSummary": "ISR专刊征稿；科研方法与理论建构"
+    },
+    {
+      "id": "r06-06",
+      "title": "MLST Focused Collection on AI for Scientific Discovery",
+      "originalTitle": "MLST Focused Collection on AI for Scientific Discovery",
+      "summary": "ICML Workshop与MLST专题",
+      "date": "2026",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "ICML AI for Science Workshop；Machine Learning: Science and Technology",
+      "countries": [],
+      "categories": [
+        1
+      ],
+      "type": "期刊专题",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播"
+      ],
+      "status": "征稿已公告",
+      "verification": "已核实",
+      "evidence": "工作坊公布与 MLST 合作的快速投稿渠道，须经期刊评审。公告暂定截稿日为 2026 年 11 月 15 日，专题正式刊出情况待补证。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ai4sciencecommunity.github.io/icml26/journal"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://iopscience.iop.org/collections/mlst-260607-1156"
+        }
+      ],
+      "sourceRows": [
+        "6.6"
+      ],
+      "originalSummary": "ICML Workshop与MLST专题",
+      "related": [
+        "r02-04"
+      ]
+    },
+    {
+      "id": "r06-07",
+      "title": "Discovery Science 2025 Special Issue",
+      "originalTitle": "Discovery Science 2025 Special Issue",
+      "summary": "Machine Learning；科学发现方法与可信AI",
+      "date": "2025-11-17",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2025,
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "Machine Learning；客座编辑 Gianvito Pio、Jurica Levatić、Nikola Simidjievski",
+      "countries": [],
+      "categories": [
+        1
+      ],
+      "type": "期刊专题",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研评价与诚信"
+      ],
+      "status": "征稿已公告",
+      "verification": "已核实",
+      "evidence": "日期为会议网站首发征稿消息的日期。专刊征集会议论文扩展版和原创研究，2026 年 2 月 27 日截稿，预计 2026 年 11–12 月上线，正式出版日期待核。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ai4science.ijs.si/news/2e48a886-4e25-481c-a361-63aea272c7a4"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://ds2025.ijs.si/news/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://ds2025.ijs.si/specialIssue/"
+        }
+      ],
+      "sourceRows": [
+        "6.7"
+      ],
+      "originalSummary": "Machine Learning；科学发现方法与可信AI"
+    },
+    {
+      "id": "r06-08",
+      "title": "Science Communication in the Age of Artificial Intelligence (Science Communication & AI)",
+      "originalTitle": "Science Communication in the Age of AI",
+      "summary": "JCOM；科学传播",
+      "date": "2025-04-14",
+      "end": null,
+      "sourceDate": "2025",
+      "years": [
+        2025
+      ],
+      "sourceContext": "",
+      "organizer": "Journal of Science Communication (JCOM)；客座编辑 Sabrina H. Kessler、Daniela Mahl、Mike S. Schäfer、Sophia C. Volk",
+      "countries": [
+        "意大利"
+      ],
+      "categories": [
+        1
+      ],
+      "type": "期刊专题",
+      "communities": [
+        "STS / Sociology",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研成果与传播"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "2025 年第 24 卷第 2 期，汇集 AI 传播、人机协作以及生成式 AI 对科学传播研究方法的影响。地区按出版方所在地标注。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.ikmz.uzh.ch/en/research/divisions/science-crisis-and-risk-communication/news/Special-Issue-JCOM.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://jcom.sissa.it/collections/129/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://jcom.sissa.it/site/contact/"
+        }
+      ],
+      "sourceRows": [
+        "6.8"
+      ],
+      "originalSummary": "JCOM；科学传播"
+    },
+    {
+      "id": "r06-09",
+      "title": "《中国科学院院刊》人工智能赋能科学研究专题",
+      "originalTitle": "《中国科学院院刊》人工智能赋能科学研究专题",
+      "summary": "科研范式、组织、评价",
+      "date": "2026",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "《中国科学院院刊》",
+      "countries": [
+        "中国"
+      ],
+      "categories": [
+        1
+      ],
+      "type": "期刊专题",
+      "communities": [
+        "Metascience",
+        "STS / Sociology",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研评价与诚信",
+        "科学制度与治理"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "第 41 卷第 6 期专题目录收录多个学科的科研范式与组织研究。原始 DOI 指向其中的《人工智能赋能科学研究：内涵、特征与体系》。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.sciengine.com/BCAS_CH/doi/10.3724/j.issn.1000-3045.20260505004"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://bulletinofcas.researchcommons.org/journal/vol41/iss6/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://bulletinofcas.researchcommons.org/journal/vol41/iss6/13/"
+        }
+      ],
+      "sourceRows": [
+        "6.9"
+      ],
+      "originalSummary": "科研范式、组织、评价"
+    },
+    {
+      "id": "r07-01",
+      "title": "MetaROR — MetaResearch Open Review",
+      "originalTitle": "MetaROR — MetaResearch Open Review",
+      "summary": "开放评议与策展平台，将预印本发表、同行评议和编辑策展结合。",
+      "date": "2024-11-21",
+      "end": null,
+      "sourceDate": "2024–2026",
+      "years": [
+        2024,
+        2025,
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "Research on Research Institute (RoRI)；Association for Interdisciplinary Meta-Research and Open Science (AIMOS)",
+      "countries": [],
+      "categories": [
+        1
+      ],
+      "type": "出版平台",
+      "communities": [
+        "Metascience",
+        "Science of Science",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "RoRI 与 AIMOS 共同发起的开放评议平台。作者先公开预印本，编辑再组织评议和策展；平台列有 2026 年 11 月的更新。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://metaror.org/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://researchonresearch.org/introducing-metaror/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://metaror.org/metaror-turns-one/"
+        }
+      ],
+      "sourceRows": [
+        "7.1"
+      ],
+      "originalSummary": "Publish–Review–Curate"
+    },
+    {
+      "id": "r07-02",
+      "title": "Lifecycle Journal",
+      "originalTitle": "Lifecycle Journal",
+      "summary": "分阶段发表与科研生命周期",
+      "date": "2025-01-30",
+      "end": null,
+      "sourceDate": "2025",
+      "years": [
+        2025
+      ],
+      "sourceContext": "",
+      "organizer": "Center for Open Science (COS)",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        1
+      ],
+      "type": "期刊",
+      "communities": [
+        "Metascience",
+        "LIS / Research Information",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "COS 在启动公告中说明，这是一项为期三年的出版试验。研究者可以在研究不同阶段共享成果并接受独立评价。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://lifecyclejournal.org/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.cos.io/about/news/lifecycle-journal-launches"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.cos.io/impact/2025/programmatic-highlights"
+        }
+      ],
+      "sourceRows": [
+        "7.2"
+      ],
+      "originalSummary": "分阶段发表与科研生命周期",
+      "related": [
+        "r08-13"
+      ]
+    },
+    {
+      "id": "r07-03",
+      "title": "aiXiv",
+      "originalTitle": "aiXiv",
+      "summary": "AI科研提案、论文、评议与修订",
+      "date": "2025-08-20",
+      "end": null,
+      "sourceDate": "2025",
+      "years": [
+        2025
+      ],
+      "sourceContext": "",
+      "organizer": "aiXiv 项目团队",
+      "countries": [],
+      "categories": [
+        1
+      ],
+      "type": "出版平台",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "日期为团队论文初稿公开日。平台支持由人或智能体提交科研提案与论文、评议并迭代修订。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.aixiv.science/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://arxiv.org/abs/2508.15126"
+        }
+      ],
+      "sourceRows": [
+        "7.3"
+      ],
+      "originalSummary": "AI科研提案、论文、评议与修订"
+    },
+    {
+      "id": "r07-04",
+      "title": "The Stacks",
+      "originalTitle": "The Stacks",
+      "summary": "多种科研成果形态",
+      "date": "2025-12",
+      "end": null,
+      "sourceDate": "2025–2026",
+      "years": [
+        2025,
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "Astera Institute",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        1
+      ],
+      "type": "出版平台",
+      "communities": [
+        "Metascience",
+        "LIS / Research Information",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研成果与传播",
+        "科研信息基础设施"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "Arcadia Science 记录其出版物在 2025 年 12 月迁入 The Stacks。该平台由 Astera 发起，为方法、结果、资源和有信息价值的失败等成果提供独立记录。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.thestacks.org/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.thestacks.org/about"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://research.arcadiascience.com/collection/reimagining-scientific-publishing"
+        }
+      ],
+      "sourceRows": [
+        "7.4"
+      ],
+      "originalSummary": "多种科研成果形态",
+      "related": [
+        "r08-12",
+        "r08-11"
+      ]
+    },
+    {
+      "id": "r07-05",
+      "title": "The AI Scientists Conference (AISC 2026)",
+      "originalTitle": "The AI Scientists Conference (AISC 2026)",
+      "summary": "AI参与审稿及会议决策实验",
+      "date": "2026",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "AISC 组织团队；平台 aiXiv",
+      "countries": [],
+      "categories": [
+        1
+      ],
+      "type": "学术会议",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播"
+      ],
+      "status": "计划举行",
+      "verification": "部分核实",
+      "evidence": "官网已开放投稿并列明由 AI 完成评议、讨论和录用决定。截稿、审稿及决定日期均待公布，未确认会议已举行。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://aixiv.science/aisc2026/"
+        }
+      ],
+      "sourceRows": [
+        "7.5"
+      ],
+      "originalSummary": "AI参与审稿及会议决策实验"
+    },
+    {
+      "id": "r07-06",
+      "title": "alphaXiv AI Track",
+      "originalTitle": "alphaXiv AI Track",
+      "summary": "AI研究成果独立发表空间",
+      "date": "2026-11-19",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "alphaXiv",
+      "countries": [],
+      "categories": [
+        1
+      ],
+      "type": "出版平台",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "平台设置 Human-written 与 AI 两条通道，AI Track 收录由智能体研究、撰写的预印本。平台政策确认两种通道，公开上线日期据同期报道。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.alphaxiv.org/ai-track"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.alphaxiv.org/docs/submission-policy"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://magica.com/news/alphaxiv-public-preprint-server-ai-research-track"
+        }
+      ],
+      "sourceRows": [
+        "7.6"
+      ],
+      "originalSummary": "AI研究成果独立发表空间"
+    },
+    {
+      "id": "r07-07",
+      "title": "Paper2Agent",
+      "originalTitle": "Paper2Agent",
+      "summary": "将论文与资源转为交互Agent；非期刊；科研论文智能体化表示与复用",
+      "date": "2026-09-16",
+      "end": null,
+      "sourceDate": "2026-09",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "Stanford Medicine；Jiacheng Miao、James Zou 等",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        1,
+        5
+      ],
+      "type": "科研工具",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研成果与传播",
+        "科研信息基础设施"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "日期为 Nature 论文在线发表日。作者把论文关联的方法、代码和数据组织为可交互的研究智能体，用于问答、复用和协作。 框架将论文关联的代码、数据和工作流包装为可调用工具。此处采用 Nature 论文发表日；预印本首次公开于 2025 年 9 月。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.nature.com/articles/s41586-026-11044-y"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42749808/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://news.stanford.edu/stories/2026/09/ai-agents-talk"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://github.com/jmiao24/Paper2Agent"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://arxiv.org/abs/2509.06917"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.nature.com/articles/d41586-026-02880-z"
+        }
+      ],
+      "sourceRows": [
+        "7.7",
+        "11.7"
+      ],
+      "originalSummary": "将论文与资源转为交互Agent；非期刊；科研论文智能体化表示与复用"
+    },
+    {
+      "id": "r08-01",
+      "title": "UK Metascience Unit",
+      "originalTitle": "UK Metascience Unit",
+      "summary": "Science Systems in an AI Age；资助及政策",
+      "date": "2024",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2024
+      ],
+      "sourceContext": "UK",
+      "organizer": "UK Research and Innovation；Department for Business, Innovation, Science and Trade",
+      "countries": [
+        "英国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究机构",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "UKRI 记载该单元成立于 2024 年。其 2026—2028 年议程关注 AI 时代的研究评价、资助决策与科学计量。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/uk-metascience-unit/"
+        }
+      ],
+      "sourceRows": [
+        "8.1"
+      ],
+      "originalSummary": "Science Systems in an AI Age；资助及政策",
+      "related": [
+        "r08-02",
+        "r09-03"
+      ]
+    },
+    {
+      "id": "r08-02",
+      "title": "AI for Metascience — University of Cambridge",
+      "originalTitle": "AI for Metascience — University of Cambridge",
+      "summary": "AI科研采用、科研数据和评价",
+      "date": "2024",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2024
+      ],
+      "sourceContext": "UK",
+      "organizer": "University of Cambridge · Accelerate Programme for Scientific Discovery",
+      "countries": [
+        "英国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究项目",
+      "communities": [
+        "Metascience",
+        "Science of Science"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研评价与诚信",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "项目页记载 2024 年启动，列出 AI 采用、用大模型补充元科学数据、用大模型辅助研究评价三条研究线。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://science.ai.cam.ac.uk/projects/2025-03-06-ai-for-metascience.html"
+        }
+      ],
+      "sourceRows": [
+        "8.2"
+      ],
+      "originalSummary": "AI科研采用、科研数据和评价",
+      "related": [
+        "r08-01",
+        "r09-03"
+      ]
+    },
+    {
+      "id": "r08-03",
+      "title": "Research on Research Institute (RoRI)",
+      "originalTitle": "Research on Research Institute (RoRI)",
+      "summary": "科研制度、资助、全球元科学格局",
+      "date": "2019",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2019
+      ],
+      "sourceContext": "UK / international",
+      "organizer": "Research on Research Institute",
+      "countries": [
+        "英国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究机构",
+      "communities": [
+        "Metascience",
+        "Science of Science",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "RoRI 成立于 2019 年，在英国注册，与多国资助机构合作。META-MOMENT 提供 18 国元科学格局的交互地图和案例。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://researchonresearch.org/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://researchonresearch.org/about/governance/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://meta-moment.researchonresearch.org/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://meta-moment.researchonresearch.org/case-studies"
+        }
+      ],
+      "sourceRows": [
+        "8.3"
+      ],
+      "originalSummary": "科研制度、资助、全球元科学格局",
+      "related": [
+        "r10-10"
+      ]
+    },
+    {
+      "id": "r08-04",
+      "title": "Metascience Research Lab — UW–Madison iSchool",
+      "originalTitle": "Metascience Research Lab — UW–Madison iSchool",
+      "summary": "信息学院的元科学实验室，研究学术贡献、科研诚信、研究评价与开放数据基础设施。",
+      "date": "2020",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2020
+      ],
+      "sourceContext": "US",
+      "organizer": "University of Wisconsin–Madison Information School",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究机构",
+      "communities": [
+        "Metascience",
+        "Science of Science",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研信息基础设施",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "实验室主页记载成立于 2020 年，由 B. Ian Hutchins 与 Chaoqun Ni 共同领导，研究科研评价、学术贡献、AI 与开放数据基础设施。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://metasci.ischool.wisc.edu/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://ischool.wisc.edu/2026/03/04/the-metascience-research-lab-is-asking-big-questions-about-the-future-of-science-and-discovery/"
+        }
+      ],
+      "sourceRows": [
+        "8.4"
+      ],
+      "originalSummary": "AI、科研诚信、评价、信息基础设施"
+    },
+    {
+      "id": "r08-05",
+      "title": "Data & Society — AI in Science",
+      "originalTitle": "Data & Society — AI in Science",
+      "summary": "AI科研实践民族志与STS",
+      "date": "2025-05",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2025
+      ],
+      "sourceContext": "US",
+      "organizer": "Data & Society；Ranjit Singh",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究项目",
+      "communities": [
+        "Philosophy of Science",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "研究者将田野项目 AI, Science, and the Future of Knowing 的起点列为 2025 年 5 月。Data & Society 自 2026 年 6 月 15 日起发表 AI in Science 系列，讨论科学家如何判断和核验 AI 输出。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://datasociety.net/research-library/ai-in-science/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://ranjitsingh.me/projects/"
+        }
+      ],
+      "sourceRows": [
+        "8.5"
+      ],
+      "originalSummary": "AI科研实践民族志与STS",
+      "related": [
+        "r03-07",
+        "r10-07"
+      ]
+    },
+    {
+      "id": "r08-06",
+      "title": "Center for Science of Science & Innovation (CSSI)",
+      "originalTitle": "Center for Science of Science and Innovation (CSSI)",
+      "summary": "SciSciGPT与Science of Science",
+      "date": null,
+      "end": null,
+      "sourceDate": "",
+      "years": [],
+      "sourceContext": "US; Northwestern",
+      "organizer": "Kellogg School of Management, Northwestern University",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究机构",
+      "communities": [
+        "AI / CS",
+        "Science of Science"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "西北大学确认该中心研究科学活动及创新的量化规律；团队公开了 SciSciGPT 的论文与代码。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://github.com/Northwestern-CSSI/SciSciGPT"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.kellogg.northwestern.edu/academics-research/science-of-science/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.nature.com/articles/s43588-025-00906-6"
+        }
+      ],
+      "sourceRows": [
+        "8.6"
+      ],
+      "originalSummary": "SciSciGPT与Science of Science",
+      "related": [
+        "r11-02"
+      ]
+    },
+    {
+      "id": "r08-07",
+      "title": "Special Interest Group on AI Scientist and Metascience (SIG-SciMeta)",
+      "originalTitle": "SIG-SciMeta — JSAI",
+      "summary": "AI Scientist与Metascience",
+      "date": null,
+      "end": null,
+      "sourceDate": "",
+      "years": [],
+      "sourceContext": "Japan",
+      "organizer": "Japanese Society for Artificial Intelligence (JSAI)",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "学术共同体",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "Science of Science"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "官网确认这是日本人工智能学会第二类研究会，议题覆盖自主科研、科学计量、AI 辅助同行评议与出版。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://sci-meta.org/index-en.html"
+        }
+      ],
+      "sourceRows": [
+        "8.7"
+      ],
+      "originalSummary": "AI Scientist与Metascience",
+      "related": [
+        "r05-04"
+      ]
+    },
+    {
+      "id": "r08-08",
+      "title": "Metascience Study Group",
+      "originalTitle": "Metascience Study Group",
+      "summary": "元科学交流、AI与评价",
+      "date": "2024-08",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2024
+      ],
+      "sourceContext": "Japan",
+      "organizer": "Metascience Study Group",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "学术共同体",
+      "communities": [
+        "Metascience",
+        "Science of Science"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "发起人记载首次线上学习会于 2024 年 8 月举行。此后活动包括 2026 年 5 月的 AI for RA 和 9 月从历史视角讨论 AI for Science 的学习会。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://sites.google.com/view/metascience/home"
+        }
+      ],
+      "sourceRows": [
+        "8.8"
+      ],
+      "originalSummary": "元科学交流、AI与评价",
+      "related": [
+        "r05-02"
+      ]
+    },
+    {
+      "id": "r08-09",
+      "title": "JST Center for Research and Development Strategy (CRDS)",
+      "originalTitle": "JST Center for Research and Development Strategy (CRDS)",
+      "summary": "AI4S政策与元科学分析",
+      "date": "2003-07",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2003
+      ],
+      "sourceContext": "Japan",
+      "organizer": "Japan Science and Technology Agency (JST)",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究机构",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "JST 于 2003 年 7 月设立 CRDS。其 2026 年 2 月发布的 AI for Science 报告涉及科技政策、文献计量和研究生态。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.jst.go.jp/crds/en/publications/CRDS-FY2025-RR-05.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.jst.go.jp/crds/about/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.jst.go.jp/crds/report/CRDS-FY2025-RR-05.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.jst.go.jp/crds/column/choryu/333.html"
+        }
+      ],
+      "sourceRows": [
+        "8.9"
+      ],
+      "originalSummary": "AI4S政策与元科学分析",
+      "related": [
+        "r10-03",
+        "r10-08",
+        "r05-03"
+      ]
+    },
+    {
+      "id": "r08-10",
+      "title": "Center for Security and Emerging Technology (CSET)",
+      "originalTitle": "Center for Security and Emerging Technology (CSET)",
+      "summary": "AI、开放科学、元科学政策",
+      "date": "2019-01",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2019
+      ],
+      "sourceContext": "US",
+      "organizer": "Georgetown University · Walsh School of Foreign Service",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究机构",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "CSET 成立于 2019 年 1 月。2025 年与 ORCA 合办研讨会，讨论 AI 如何支持开放科学和元科学，随后发表研究议程。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://cset.georgetown.edu/publication/opportunities-in-open-science-metascience-and-artificial-intelligence/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://cset.georgetown.edu/about-us/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://cset.georgetown.edu/wp-content/uploads/CSET-Chinas-STI-Operations.pdf"
+        }
+      ],
+      "sourceRows": [
+        "8.10"
+      ],
+      "originalSummary": "AI、开放科学、元科学政策",
+      "related": [
+        "r01-01",
+        "r10-02"
+      ]
+    },
+    {
+      "id": "r08-11",
+      "title": "Astera Institute",
+      "originalTitle": "Astera Institute",
+      "summary": "科研制度创新、基础设施、成果形式",
+      "date": null,
+      "end": null,
+      "sourceDate": "",
+      "years": [],
+      "sourceContext": "US",
+      "organizer": "Astera Institute",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究机构",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研成果与传播",
+        "科研信息基础设施",
+        "科学制度与治理"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "Astera 官网列出研究、驻留与 Fellow 支持项目；其科学竞赛提出通过可检验的实验研究科研制度障碍。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://astera.org/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://astera.org/identifying-systemic-bottlenecks/"
+        }
+      ],
+      "sourceRows": [
+        "8.11"
+      ],
+      "originalSummary": "科研制度创新、基础设施、成果形式",
+      "related": [
+        "r07-04",
+        "r08-12"
+      ]
+    },
+    {
+      "id": "r08-12",
+      "title": "Arcadia Science",
+      "originalTitle": "Arcadia Science",
+      "summary": "开放科研、发表制度与成果形式",
+      "date": "2021",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2021
+      ],
+      "sourceContext": "US",
+      "organizer": "Arcadia Science",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究机构",
+      "communities": [
+        "Metascience",
+        "LIS / Research Information",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研成果与传播",
+        "科学制度与治理"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "Arcadia 于 2021 年成立。出版页面收录设想、方法、数据以及暂停研究的记录，可观察开放发表如何改变研究成果的形态。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.arcadiascience.com/publications"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.arcadiascience.com/about"
+        }
+      ],
+      "sourceRows": [
+        "8.12"
+      ],
+      "originalSummary": "开放科研、发表制度与成果形式",
+      "related": [
+        "r07-04",
+        "r08-11"
+      ]
+    },
+    {
+      "id": "r08-13",
+      "title": "Center for Open Science",
+      "originalTitle": "Center for Open Science",
+      "summary": "开放科学、Lifecycle Journal",
+      "date": "2013",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2013
+      ],
+      "sourceContext": "US",
+      "organizer": "Center for Open Science",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究机构",
+      "communities": [
+        "Metascience",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "COS 于 2013 年成立，维护开放研究基础设施，并于 2025 年启动面向整个研究生命周期的出版试点 Lifecycle Journal。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.cos.io/impact/2025/programmatic-highlights"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.cos.io/about"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://lifecyclejournal.org/"
+        }
+      ],
+      "sourceRows": [
+        "8.13"
+      ],
+      "originalSummary": "开放科学、Lifecycle Journal",
+      "related": [
+        "r07-02"
+      ]
+    },
+    {
+      "id": "r08-14",
+      "title": "FutureHouse",
+      "originalTitle": "FutureHouse",
+      "summary": "AI Scientist、AI生命科学、新研究组织",
+      "date": "2023",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2023
+      ],
+      "sourceContext": "US",
+      "organizer": "FutureHouse",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究机构",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "FutureHouse 是位于旧金山的独立非营利研究组织。机构简介确认其 2023 年成立，并介绍将科研智能体与研究人员配对的博士后项目。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.futurehouse.org/about"
+        }
+      ],
+      "sourceRows": [
+        "8.14"
+      ],
+      "originalSummary": "AI Scientist、AI生命科学、新研究组织"
+    },
+    {
+      "id": "r08-15",
+      "title": "AI Science Foundry — Carnegie Mellon University",
+      "originalTitle": "AI Science Foundry — Carnegie Mellon University",
+      "summary": "自主实验、跨学科科研资源",
+      "date": null,
+      "end": null,
+      "sourceDate": "",
+      "years": [],
+      "sourceContext": "US",
+      "organizer": "Carnegie Mellon University",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究机构",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研信息基础设施"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "CMU 建设可编程云实验室，支持跨学科自主实验。2026 年 7 月，学校宣布该设施获选为 NSF 可编程云实验室试验网络节点。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://ai-science-foundry.cmu.edu/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.cmu.edu/news/stories/archives/2026/july/carnegie-mellons-ai-science-foundry-selected-by-nsf-to-help-build-national-infrastructure-for-ai"
+        }
+      ],
+      "sourceRows": [
+        "8.15"
+      ],
+      "originalSummary": "自主实验、跨学科科研资源"
+    },
+    {
+      "id": "r08-16",
+      "title": "Asta — Allen Institute for AI",
+      "originalTitle": "Asta — Allen Institute for AI",
+      "summary": "Scientific Agents、开放科研评价",
+      "date": "2025-08-26",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2025
+      ],
+      "sourceContext": "US",
+      "organizer": "Allen Institute for AI (Ai2)",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究项目",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研评价与诚信",
+        "科研信息基础设施"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "Ai2 于 2025 年 8 月 26 日宣布 Asta 计划。其科研助手、AstaBench 和开发资源共同支持科研智能体的开发与比较评价。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://allenai.org/asta"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://allenai.org/blog/asta"
+        }
+      ],
+      "sourceRows": [
+        "8.16"
+      ],
+      "originalSummary": "Scientific Agents、开放科研评价",
+      "related": [
+        "r11-01",
+        "r11-03"
+      ]
+    },
+    {
+      "id": "r08-17",
+      "title": "Foresight Institute — AI for Science & Safety Nodes",
+      "originalTitle": "Foresight Institute — AI Node",
+      "summary": "AI-first Science、资助与共同体",
+      "date": null,
+      "end": null,
+      "sourceDate": "",
+      "years": [],
+      "sourceContext": "US",
+      "organizer": "Foresight Institute",
+      "countries": [
+        "美国",
+        "德国",
+        "南非"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "学术共同体",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "科学制度与治理"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "官方征集页列出旧金山与柏林两个节点，以及同开普敦合作机构设立的社区节点。原始工作坊链接对应旧金山湾区节点。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://foresight.org/events/2026-ai-for-science-neuro-longevity-nano-metascience/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://foresight.org/grants/ai-science-safety-nodes-rfp/"
+        }
+      ],
+      "sourceRows": [
+        "8.17"
+      ],
+      "originalSummary": "AI-first Science、资助与共同体"
+    },
+    {
+      "id": "r08-18",
+      "title": "RIKEN — Advanced General Intelligence for Science Program (AGIS)",
+      "originalTitle": "RIKEN — Advanced General Intelligence for Science",
+      "summary": "AI科研协作与新型能力",
+      "date": "2024-04",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2024
+      ],
+      "sourceContext": "Japan",
+      "organizer": "RIKEN · TRIP Headquarters",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "研究机构",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "理研年报记载 AGIS 于 2024 年 4 月启动。官方项目页介绍面向科研的基础模型及智能体，活动页面记录其组织跨学科 AI Jam Session 的角色。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.r-ccs.riken.jp/en/outreach/events/20261027-29/index.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.riken.jp/en/research/labs/trip/agis/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.r-ccs.riken.jp/fugaku/fugaku-annual-reports/2023/8/4/"
+        }
+      ],
+      "sourceRows": [
+        "8.18"
+      ],
+      "originalSummary": "AI科研协作与新型能力",
+      "related": [
+        "r05-05"
+      ]
+    },
+    {
+      "id": "r08-19",
+      "title": "Astera Essay Competition: Identifying Systemic Bottlenecks to Science",
+      "originalTitle": "Astera Essay Competition: Identifying Systemic Bottlenecks to Science",
+      "summary": "识别科研结构障碍、提出制度实验",
+      "date": "2026",
+      "end": null,
+      "sourceDate": "",
+      "years": [
+        2026
+      ],
+      "sourceContext": "US",
+      "organizer": "Astera Institute",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        2
+      ],
+      "type": "征文项目",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科学制度与治理"
+      ],
+      "status": "已结束",
+      "verification": "已核实",
+      "evidence": "竞赛结果页公布八篇获奖作品，并提供 187 份公开投稿的索引。该条目记录已结束的征文活动。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://astera.org/essay-competition-finalists/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://astera.org/identifying-systemic-bottlenecks/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://astera.org/essay-competition/"
+        }
+      ],
+      "sourceRows": [
+        "8.19"
+      ],
+      "originalSummary": "识别科研结构障碍、提出制度实验"
+    },
+    {
+      "id": "r09-01",
+      "title": "AI Metascience Fellowship Programme",
+      "originalTitle": "AI Metascience Fellowship Programme",
+      "summary": "英、美、加三方资助的国际项目，研究 AI 如何改变科研实践、职业发展与知识生产。",
+      "date": "2025-10-09",
+      "end": null,
+      "sourceDate": "2025",
+      "years": [
+        2025
+      ],
+      "sourceContext": "UK, US, Canada; UKRI, Sloan, SSHRC",
+      "organizer": "UKRI、Alfred P. Sloan Foundation、SSHRC",
+      "countries": [
+        "英国",
+        "美国",
+        "加拿大"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "资助计划",
+      "communities": [
+        "Metascience",
+        "STS / Sociology",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "UKRI 当日公布 29 位早期职业研究者名单。按工作所在地，英国 18 位、美国 6 位、加拿大 5 位。每项资助最长两年，计划试行申请人参与的分布式同行评议。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.ukri.org/news/international-fellowships-to-explore-ais-impact-on-science/"
+        }
+      ],
+      "sourceRows": [
+        "9.1"
+      ],
+      "originalSummary": "AI对科研、组织、知识生产影响",
+      "related": [
+        "r01-06"
+      ]
+    },
+    {
+      "id": "r09-02",
+      "title": "Metascience Research Grants: Round Two",
+      "originalTitle": "Metascience Research Grants: Round Two",
+      "summary": "Science of AI for Science、评价与组织",
+      "date": "2026-02-12",
+      "end": "2026-04-23",
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "UKRI, Coefficient Giving",
+      "organizer": "UKRI、DSIT、Coefficient Giving",
+      "countries": [
+        "英国"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "研究资助",
+      "communities": [
+        "Metascience",
+        "Science of Science",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "征集已截止",
+      "verification": "已核实",
+      "evidence": "英国资助公告列出总额 600 万英镑，涵盖 AI 对科学的影响、科研机构设计与科研评价三类问题。所列日期为申请窗口。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.ukri.org/opportunity/metascience-research-grants-round-2/"
+        }
+      ],
+      "sourceRows": [
+        "9.2"
+      ],
+      "originalSummary": "Science of AI for Science、评价与组织"
+    },
+    {
+      "id": "r09-03",
+      "title": "Science Systems in an AI Age",
+      "originalTitle": "Science Systems in an AI Age",
+      "summary": "科研系统、评价、资助决策",
+      "date": "2026",
+      "end": "2028",
+      "sourceDate": "2026–2028",
+      "years": [
+        2026,
+        2027,
+        2028
+      ],
+      "sourceContext": "UK Metascience Unit",
+      "organizer": "UK Metascience Unit",
+      "countries": [
+        "英国"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "研究计划",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "英国元科学部门将其列为 2026–2028 年工作重点，涉及 AI 时代的科研评价与资助决策、科研实践变化和科学计量方法。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/uk-metascience-unit/"
+        }
+      ],
+      "sourceRows": [
+        "9.3"
+      ],
+      "originalSummary": "科研系统、评价、资助决策",
+      "related": [
+        "r08-02",
+        "r08-01"
+      ]
+    },
+    {
+      "id": "r09-04",
+      "title": "UKRI Grant Assessment Modernisation",
+      "originalTitle": "UKRI Grant Assessment Modernisation",
+      "summary": "分布式同行评议与资助实验",
+      "date": "2026-09-10",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "UK",
+      "organizer": "UK Research and Innovation",
+      "countries": [
+        "英国"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "资助制度",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "UKRI 于 9 月发布改革公告，并自 10 月起推行八项措施，涵盖申请数量管理、分布式同行评议与资助决策。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.ukri.org/news/ukri-modernises-grant-assessment-for-the-age-of-ai/"
+        }
+      ],
+      "sourceRows": [
+        "9.4"
+      ],
+      "originalSummary": "分布式同行评议与资助实验"
+    },
+    {
+      "id": "r09-05",
+      "title": "UKRI Enabling AI Adoption Across Science and Engineering",
+      "originalTitle": "Enabling AI Adoption Across Science and Engineering",
+      "summary": "跨学科AI能力与评议机制",
+      "date": "2026-09-29",
+      "end": "2026-12-01",
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "UKRI",
+      "organizer": "UK Research and Innovation",
+      "countries": [
+        "英国"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "研究资助",
+      "communities": [
+        "AI / CS",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理"
+      ],
+      "status": "征集中",
+      "verification": "已核实",
+      "evidence": "9 月 17 日发布，9 月 29 日开放申请，12 月 1 日截止。计划支持跨学科合作，并采用申请人互评的分布式同行评议。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.ukri.org/opportunity/ukri-enabling-ai-adoption-across-science-and-engineering/"
+        }
+      ],
+      "sourceRows": [
+        "9.5"
+      ],
+      "originalSummary": "跨学科AI能力与评议机制"
+    },
+    {
+      "id": "r09-06",
+      "title": "Charting AI's Role in Scientific Discovery",
+      "originalTitle": "Charting AI's Role in Scientific Discovery",
+      "summary": "科研实践、基础设施瓶颈、资助需求",
+      "date": "2026-07-15",
+      "end": null,
+      "sourceDate": "2026-11",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Renaissance Philanthropy",
+      "organizer": "Renaissance Philanthropy（Google.org 支持）",
+      "countries": [],
+      "categories": [
+        3
+      ],
+      "type": "策略研究",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研信息基础设施",
+        "科学制度与治理"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "机构新闻索引将项目介绍标为 7 月 15 日，原稿的 11 月缺少依据。该研究调查 AI 在五类科研场景中的采用与投入需求；页面征集研究者经验。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.renaissancephilanthropy.org/insights/charting-ai-in-scientific-discovery"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.renaissancephilanthropy.org/insights?offset=1785146451027"
+        }
+      ],
+      "sourceRows": [
+        "9.6"
+      ],
+      "originalSummary": "科研实践、基础设施瓶颈、资助需求"
+    },
+    {
+      "id": "r09-07",
+      "title": "A European Strategy for Artificial Intelligence in Science",
+      "originalTitle": "European Strategy for AI in Science",
+      "summary": "AI科研能力、人才、数据基础设施",
+      "date": "2025-10-08",
+      "end": null,
+      "sourceDate": "2025-10",
+      "years": [
+        2025
+      ],
+      "sourceContext": "EU",
+      "organizer": "European Commission",
+      "countries": [
+        "欧盟"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "政策文件",
+      "communities": [
+        "AI / CS",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "科学制度与治理"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "欧盟委员会在 COM(2025) 724 final 中提出欧洲 AI 科研战略，讨论人才、算力、数据供给与研究协调。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52025DC0724"
+        }
+      ],
+      "sourceRows": [
+        "9.7"
+      ],
+      "originalSummary": "AI科研能力、人才、数据基础设施"
+    },
+    {
+      "id": "r09-08",
+      "title": "AI for Science Strategy",
+      "originalTitle": "UK AI for Science Strategy",
+      "summary": "国家AI科研战略",
+      "date": "2025-11-20",
+      "end": null,
+      "sourceDate": "2025-11",
+      "years": [
+        2025
+      ],
+      "sourceContext": "UK",
+      "organizer": "Department for Science, Innovation and Technology",
+      "countries": [
+        "英国"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "政策文件",
+      "communities": [
+        "AI / CS",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "科学制度与治理"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "英国政府战略列出 15 项行动，以建设 AI 驱动的科研能力，促进科学发现。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.gov.uk/government/publications/ai-for-science-strategy"
+        }
+      ],
+      "sourceRows": [
+        "9.8"
+      ],
+      "originalSummary": "国家AI科研战略"
+    },
+    {
+      "id": "r09-09",
+      "title": "RAISE — Resource for AI Science in Europe",
+      "originalTitle": "RAISE — Resource for AI Science in Europe",
+      "summary": "科研资源与协调机制",
+      "date": "2025-11-04",
+      "end": null,
+      "sourceDate": "2025-11",
+      "years": [
+        2025
+      ],
+      "sourceContext": "EU",
+      "organizer": "European Commission",
+      "countries": [
+        "欧盟"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "研究计划",
+      "communities": [
+        "AI / CS",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "科学制度与治理"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "欧盟委员会确认 RAISE 试点于 2025 年 11 月 4 日启动。计划通过跨学科研究网络协调欧洲 AI 科研资源。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-ai-science-strategy/raise-resource-ai-science-europe_en"
+        }
+      ],
+      "sourceRows": [
+        "9.9"
+      ],
+      "originalSummary": "科研资源与协调机制"
+    },
+    {
+      "id": "r09-10",
+      "title": "AI for Scienceの推進に向けた基本的な戦略方針",
+      "originalTitle": "AI for Science Basic Strategy",
+      "summary": "人才、算力、数据体系",
+      "date": "2026-03-31",
+      "end": null,
+      "sourceDate": "2026-03",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Japan; MEXT",
+      "organizer": "文部科学省（MEXT）",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "政策文件",
+      "communities": [
+        "AI / CS",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "科学制度与治理"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "已补充日本文部科学省原文。正式文件于 3 月 31 日发布，讨论人才、计算资源、研究数据与人机共同开展科学研究的条件。原稿英文名为 AI for Science Basic Strategy。",
+      "sources": [
+        {
+          "label": "核查来源",
+          "url": "https://www.mext.go.jp/b_menu/shingi/chousa/shinkou/077/aifors_strategy.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.mext.go.jp/content/20260403-mxt_jyohoka01-000048752_1.pdf"
+        }
+      ],
+      "sourceRows": [
+        "9.10"
+      ],
+      "originalSummary": "人才、算力、数据体系"
+    },
+    {
+      "id": "r09-11",
+      "title": "NSF Office of Metascience",
+      "originalTitle": "NSF Office of Metascience",
+      "summary": "科研资助与评议实验",
+      "date": "2026-10-08",
+      "end": null,
+      "sourceDate": "2026-09–10",
+      "years": [
+        2026
+      ],
+      "sourceContext": "US",
+      "organizer": "U.S. National Science Foundation",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "政策机构",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科学制度与治理"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "NSF 于 10 月 8 日宣布设立办公室，10 月 26 日招募首任负责人。办公室隶属 NSF 主任办公室，研究资助、评审机制和投资成效，并与 UKRI 合作。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.nsf.gov/od/oms/updates/job-opportunity-office-head-office-metascience"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.nsf.gov/od/oms"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.nsf.gov/news/nsf-lays-foundation-next-generation-technologies-support"
+        }
+      ],
+      "sourceRows": [
+        "9.11"
+      ],
+      "originalSummary": "科研资助与评议实验"
+    },
+    {
+      "id": "r09-12",
+      "title": "NSF and UKRI Metascience Statement 2026",
+      "originalTitle": "NSF–UKRI Metascience Statement",
+      "summary": "应用元科学和制度实验",
+      "date": "2026-10-08",
+      "end": null,
+      "sourceDate": "2026-10",
+      "years": [
+        2026
+      ],
+      "sourceContext": "US, UK",
+      "organizer": "NSF、UKRI",
+      "countries": [
+        "美国",
+        "英国"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "政策文件",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "联合声明涵盖科研生产率、资助评审、新工具采用与数据分析，共同探索跨机构元科学实验。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.ukri.org/publications/nsf-and-ukri-metascience-statement/nsf-and-ukri-metascience-statement-2026/"
+        }
+      ],
+      "sourceRows": [
+        "9.12"
+      ],
+      "originalSummary": "应用元科学和制度实验"
+    },
+    {
+      "id": "r09-13",
+      "title": "AI in Science Summit 2026",
+      "originalTitle": "AI in Science Summit 2026",
+      "summary": "科研战略、组织与协调",
+      "date": "2026-10-15",
+      "end": "2026-10-16",
+      "sourceDate": "2026-10-15–16",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Ireland / EU",
+      "organizer": "University College Dublin、Research Ireland（协调）",
+      "countries": [
+        "爱尔兰",
+        "欧盟"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "学术会议",
+      "communities": [
+        "AI / CS",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理"
+      ],
+      "status": "已举行",
+      "verification": "已核实",
+      "evidence": "会议在都柏林举行。Research Data Alliance 的会后报道确认了 10 月 15–16 日的举办日期，并回顾其开放科学与研究数据分会。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://knowledge-for-policy.ec.europa.eu/event/ai-science-summit-2026_en"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.rd-alliance.org/news/ais2026-dublin/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://hadea.ec.europa.eu/events/ai-science-summit-2026-2026-10-15_en"
+        }
+      ],
+      "sourceRows": [
+        "9.13"
+      ],
+      "originalSummary": "科研战略、组织与协调"
+    },
+    {
+      "id": "r09-14",
+      "title": "Research Ireland Meta-research Unit",
+      "originalTitle": "Research Ireland Meta-research Unit",
+      "summary": "筹建中的元科学政策研究机构",
+      "date": "2026-12",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Ireland",
+      "organizer": "Research Ireland",
+      "countries": [
+        "爱尔兰"
+      ],
+      "categories": [
+        3
+      ],
+      "type": "政策机构",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "拟设立",
+      "verification": "已核实",
+      "evidence": "3 月 1 日公布的机构战略在第 51 页提出设立元研究单元，以支持研究政策决策。RoRI 于 11 月 3 日报道预计 12 月启动；截至本地图快照仍属拟设阶段。",
+      "sources": [
+        {
+          "label": "核查来源",
+          "url": "https://media.researchireland.ie/wp-content/uploads/2026/03/ResearchIreland_Strategy_Plan_2026-2030.pdf"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.researchireland.ie/news/research-ireland-strategy-to-help-deliver-stronger-more-resilient-ireland-through-research-and-innovation/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://researchonresearch.org/seize-the-meta-moment/"
+        }
+      ],
+      "sourceRows": [
+        "9.14"
+      ],
+      "originalSummary": "筹建中的元科学政策研究机构"
+    },
+    {
+      "id": "r10-01",
+      "title": "A year in metascience (2025)",
+      "originalTitle": "A Year in Metascience",
+      "summary": "国际元科学与资助格局",
+      "date": "2025-06-30",
+      "end": null,
+      "sourceDate": "2025",
+      "years": [
+        2025
+      ],
+      "sourceContext": "UK Metascience Unit",
+      "organizer": "UK Metascience Unit（DSIT、UKRI）",
+      "countries": [
+        "英国"
+      ],
+      "categories": [
+        4
+      ],
+      "type": "研究报告",
+      "communities": [
+        "Metascience",
+        "Science of Science",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "英国政府于 6 月 30 日发布年度报告，记录元科学资助、科研评价与同行评议实验。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.gov.uk/government/publications/a-year-in-metascience-2025/a-year-in-metascience-2025-executive-summary"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.gov.uk/government/publications/a-year-in-metascience-2025"
+        }
+      ],
+      "sourceRows": [
+        "10.1"
+      ],
+      "originalSummary": "国际元科学与资助格局"
+    },
+    {
+      "id": "r10-02",
+      "title": "Opportunities in Open Science, Metascience, and Artificial Intelligence",
+      "originalTitle": "Opportunities in Open Science, Metascience, and Artificial Intelligence",
+      "summary": "交叉研究议程",
+      "date": "2025-06",
+      "end": null,
+      "sourceDate": "2025",
+      "years": [
+        2025
+      ],
+      "sourceContext": "CSET, ORCA",
+      "organizer": "Georgetown CSET、Open Research Community Accelerator",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        4
+      ],
+      "type": "研究报告",
+      "communities": [
+        "Metascience",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "CSET 六月发布的报告整理了 3 月 26 日华盛顿研讨会的讨论，并列出开放科学、元科学与 AI 交叉领域的待研究问题。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://cset.georgetown.edu/publication/opportunities-in-open-science-metascience-and-artificial-intelligence/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://doi.org/10.51593/20250008"
+        }
+      ],
+      "sourceRows": [
+        "10.2"
+      ],
+      "originalSummary": "交叉研究议程",
+      "related": [
+        "r01-01",
+        "r08-10"
+      ]
+    },
+    {
+      "id": "r10-03",
+      "title": "Trends in AI for Science 2026: How AI Transformation Is Reshaping Science, Technology, and Innovation",
+      "originalTitle": "Trends in AI for Science 2026",
+      "summary": "AI4S技术、政策、元科学",
+      "date": "2026-02",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "JST-CRDS",
+      "organizer": "Japan Science and Technology Agency (JST), CRDS",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        4
+      ],
+      "type": "研究报告",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "JST 以截至 2025 年末的研究为基础，梳理 AI 对科研技术、组织、政策与跨学科协作的影响。网页提供英文概要及日文全文。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.jst.go.jp/crds/en/publications/CRDS-FY2025-RR-05.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.jst.go.jp/crds/report/CRDS-FY2025-RR-05.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.jst.go.jp/crds/column/choryu/333.html"
+        }
+      ],
+      "sourceRows": [
+        "10.3"
+      ],
+      "originalSummary": "AI4S技术、政策、元科学",
+      "related": [
+        "r10-08",
+        "r08-09",
+        "r05-03"
+      ]
+    },
+    {
+      "id": "r10-04",
+      "title": "Preparing National Research Ecosystems for AI: Strategies and Progress",
+      "originalTitle": "Preparing National Research Ecosystems for AI: Strategies and Progress",
+      "summary": "各国科研生态适应AI",
+      "date": "2026-02",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "International Science Council",
+      "organizer": "International Science Council",
+      "countries": [],
+      "categories": [
+        4
+      ],
+      "type": "研究报告",
+      "communities": [
+        "STS / Sociology",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "第三版工作论文以多国案例比较 AI 如何进入国家科研体系；前两版分别在 2024 年和 2025 年发布。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://council.science/publications/ai-science-systems/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://council.science/wp-content/uploads/2026/02/Preparing-National-Research-Ecosystems-for-AI-3-5.pdf"
+        }
+      ],
+      "sourceRows": [
+        "10.4"
+      ],
+      "originalSummary": "各国科研生态适应AI"
+    },
+    {
+      "id": "r10-05",
+      "title": "AI Index Report 2026 — Science",
+      "originalTitle": "AI Index Report 2026 — Science",
+      "summary": "AI科研活动、能力与趋势",
+      "date": "2026-04-13",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Stanford HAI",
+      "organizer": "Stanford HAI、Schmidt Sciences（科学章节合作）",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        4
+      ],
+      "type": "研究报告",
+      "communities": [
+        "AI / CS",
+        "Science of Science"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "AI 辅助元科学"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "2026 年 AI Index 增设 Science 章节，统计 AI 科研产出，并讨论不同学科的工具、基础设施与实验验证。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/science"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://hai.stanford.edu/assets/files/ai_index_report_2026.pdf"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report"
+        }
+      ],
+      "sourceRows": [
+        "10.5"
+      ],
+      "originalSummary": "AI科研活动、能力与趋势"
+    },
+    {
+      "id": "r10-06",
+      "title": "Reforming Research Assessment for Better Science",
+      "originalTitle": "Reforming Research Assessment for Better Science",
+      "summary": "评价、激励、开放数据、治理",
+      "date": "2026-04-29",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "OECD",
+      "organizer": "OECD",
+      "countries": [],
+      "categories": [
+        4
+      ],
+      "type": "研究报告",
+      "communities": [
+        "Metascience",
+        "Science of Science",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科学制度与治理"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "OECD 政策简报讨论科研评价指标、开放数据及 AI 辅助评估。采用出版网页所列 4 月 29 日，PDF 封面标注 4 月 27 日。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.oecd.org/en/publications/reforming-research-assessment-for-better-science_f6202159-en.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://doi.org/10.1787/f6202159-en"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.oecd.org/en/publications/reforming-research-assessment-for-better-science_f6202159-en/full-report.html"
+        }
+      ],
+      "sourceRows": [
+        "10.6"
+      ],
+      "originalSummary": "评价、激励、开放数据、治理"
+    },
+    {
+      "id": "r10-07",
+      "title": "AI in Science",
+      "originalTitle": "AI in Science",
+      "summary": "科研实践民族志",
+      "date": "2026-06-15",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "Data & Society",
+      "organizer": "Data & Society · Ranjit Singh",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        4
+      ],
+      "type": "研究系列",
+      "communities": [
+        "Philosophy of Science",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学认识论"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "这是 Ranjit Singh 的民族志系列文章入口。作者通过实验室会议、工具示范与验证现场观察科学家如何判断证据。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://datasociety.net/research-library/ai-in-science/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://datasociety.net/es/research-library/ai-in-science/"
+        }
+      ],
+      "sourceRows": [
+        "10.7"
+      ],
+      "originalSummary": "科研实践民族志",
+      "related": [
+        "r03-07",
+        "r08-05"
+      ]
+    },
+    {
+      "id": "r10-08",
+      "title": "JSAI2026 企画セッション報告書　AI for Scienceの動向と展望",
+      "originalTitle": "JSAI 2026: AI for Science 的趋势与展望",
+      "summary": "日本科研前沿会议报告",
+      "date": "2026-09",
+      "end": null,
+      "sourceDate": "2026-09",
+      "years": [
+        2026
+      ],
+      "sourceContext": "JST-CRDS",
+      "organizer": "JST-CRDS",
+      "countries": [
+        "日本"
+      ],
+      "categories": [
+        4
+      ],
+      "type": "会议报告",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "JST 的日文报告整理了 JSAI2026 六月举行的两场专题讨论，涉及日本的 AI 科研政策以及自主科研工具。此条日期为报告出版月份。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.jst.go.jp/crds/report/CRDS-FY2026-SY-02.html"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.jst.go.jp/crds/sympo/JSAI2026_ai4s/index.html"
+        }
+      ],
+      "sourceRows": [
+        "10.8"
+      ],
+      "originalSummary": "日本科研前沿会议报告",
+      "related": [
+        "r10-03",
+        "r08-09",
+        "r05-03"
+      ]
+    },
+    {
+      "id": "r10-09",
+      "title": "AI in Science — Metascience Tracker",
+      "originalTitle": "AI in Science — Metascience Tracker",
+      "summary": "个人元科学策展项目",
+      "date": "2026-10-25",
+      "end": null,
+      "sourceDate": "2026-10",
+      "years": [
+        2026
+      ],
+      "sourceContext": "David Hilmer Rex",
+      "organizer": "David Hilmer Rex",
+      "countries": [],
+      "categories": [
+        4
+      ],
+      "type": "研究地图",
+      "communities": [
+        "Metascience",
+        "Science of Science"
+      ],
+      "themes": [
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "策展者的专题页面标明 10 月 25 日开设及更新，汇集 AI 采用、研究问题选择、科研劳动和基础设施等主题的外部资料。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://davidhilmerrex.nu/metascience/ai-in-science"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://davidhilmerrex.nu/metascience/"
+        }
+      ],
+      "sourceRows": [
+        "10.9"
+      ],
+      "originalSummary": "个人元科学策展项目"
+    },
+    {
+      "id": "r10-10",
+      "title": "Seize the Meta-Moment: How Metascience Is Evolving Worldwide",
+      "originalTitle": "Seize the Meta-Moment: How Metascience Is Evolving Worldwide",
+      "summary": "全球元科学机构、投资、研究及政策",
+      "date": "2026-11-03",
+      "end": null,
+      "sourceDate": "2026-11-03",
+      "years": [
+        2026
+      ],
+      "sourceContext": "RoRI",
+      "organizer": "Research on Research Institute (RoRI)",
+      "countries": [],
+      "categories": [
+        4
+      ],
+      "type": "研究报告",
+      "communities": [
+        "Metascience",
+        "Science of Science",
+        "Science Policy / Institutional Innovation"
+      ],
+      "themes": [
+        "科学制度与治理",
+        "AI 辅助元科学"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "RoRI 于 11 月 3 日发布综合报告，比较 18 个国家科研体系的元科学实践，配有开放地图和分国案例。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://researchonresearch.org/seize-the-meta-moment/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://doi.org/10.6084/m9.figshare.33455029"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://meta-moment.researchonresearch.org/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://meta-moment.researchonresearch.org/case-studies"
+        }
+      ],
+      "sourceRows": [
+        "10.10"
+      ],
+      "originalSummary": "全球元科学机构、投资、研究及政策",
+      "related": [
+        "r08-03"
+      ]
+    },
+    {
+      "id": "r11-01",
+      "title": "Asta / AstaBench",
+      "originalTitle": "Asta / AstaBench",
+      "summary": "Scientific Agents能力与开放实验环境",
+      "date": "2025-08-26",
+      "end": null,
+      "sourceDate": "2025",
+      "years": [
+        2025
+      ],
+      "sourceContext": "",
+      "organizer": "Allen Institute for AI (Ai2)",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        5
+      ],
+      "type": "科研工具",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研评价与诚信",
+        "科研信息基础设施"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "Ai2 于 8 月 26 日推出 Asta 研究助手与 AstaBench 科研任务评测框架，项目页面持续发布工具、基准与更新。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://allenai.org/asta"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://allenai.org/blog/asta"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://allenai.org/blog/astabench"
+        }
+      ],
+      "sourceRows": [
+        "11.1"
+      ],
+      "originalSummary": "Scientific Agents能力与开放实验环境",
+      "related": [
+        "r08-16",
+        "r11-03"
+      ]
+    },
+    {
+      "id": "r11-02",
+      "title": "SciSciGPT",
+      "originalTitle": "SciSciGPT",
+      "summary": "Science of Science人机协作",
+      "date": "2025-12-09",
+      "end": null,
+      "sourceDate": "2025",
+      "years": [
+        2025
+      ],
+      "sourceContext": "",
+      "organizer": "Northwestern University · CSSI",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        5
+      ],
+      "type": "科研工具",
+      "communities": [
+        "AI / CS",
+        "Science of Science"
+      ],
+      "themes": [
+        "科研信息基础设施",
+        "AI 辅助元科学"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "SciSciGPT 提供面向科学学研究的对话式分析工作流与开源实现。论文在线发表于 2025 年 12 月，编入 2026 年卷。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.nature.com/articles/s43588-025-00906-6"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://github.com/Northwestern-CSSI/SciSciGPT"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://doi.org/10.5281/zenodo.17271393"
+        }
+      ],
+      "sourceRows": [
+        "11.2"
+      ],
+      "originalSummary": "Science of Science人机协作",
+      "related": [
+        "r08-06"
+      ]
+    },
+    {
+      "id": "r11-03",
+      "title": "Asta Interaction Dataset",
+      "originalTitle": "Asta Interaction Dataset",
+      "summary": "用户与AI科研工具交互及研究意图",
+      "date": "2026-02-26",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "Allen Institute for AI (Ai2)",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        5
+      ],
+      "type": "数据集",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "AI 辅助元科学"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "论文记录了 Asta 两个科研工具的使用与参与情况，Ai2 公开了匿名化交互数据的数据卡。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://arxiv.org/abs/2602.23335"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://huggingface.co/datasets/allenai/asta-user-interactions"
+        }
+      ],
+      "sourceRows": [
+        "11.3"
+      ],
+      "originalSummary": "用户与AI科研工具交互及研究意图",
+      "related": [
+        "r11-01",
+        "r08-16"
+      ]
+    },
+    {
+      "id": "r11-04",
+      "title": "SciAgentArena",
+      "originalTitle": "SciAgentArena",
+      "summary": "科研任务中的Agent能力评价",
+      "date": "2026-06-10",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "Tianyu Liu 等，Yale University 等多机构",
+      "countries": [
+        "美国"
+      ],
+      "categories": [
+        5
+      ],
+      "type": "评测平台",
+      "communities": [
+        "Metascience",
+        "AI / CS"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研评价与诚信"
+      ],
+      "status": "持续进行",
+      "verification": "已核实",
+      "evidence": "作者页面和预印本记录了带有分步验证的科研任务基准、代码与公开提交入口。日期取预印本首发日。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://arxiv.org/abs/2606.12736"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://sciagentarena.github.io/"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://github.com/HelloWorldLTY/SciAgentArena"
+        }
+      ],
+      "sourceRows": [
+        "11.4"
+      ],
+      "originalSummary": "科研任务中的Agent能力评价"
+    },
+    {
+      "id": "r11-05",
+      "title": "Agent-Native Research Artifacts",
+      "originalTitle": "Agent-Native Research Artifacts",
+      "summary": "面向Agent的可执行、可验证科研成果",
+      "date": "2026-04-27",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "Jiachen Liu 等 · ARA-Labs",
+      "countries": [],
+      "categories": [
+        5
+      ],
+      "type": "研究论文",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研评价与诚信",
+        "科研成果与传播",
+        "科研信息基础设施"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "作者提出 Agent-Native Research Artifact 协议，将科研逻辑、可执行代码、探索轨迹和证据组织为可复用研究包，附开源实现。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://arxiv.org/abs/2604.24658"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://github.com/ARA-Labs/Agent-Native-Research-Artifact"
+        }
+      ],
+      "sourceRows": [
+        "11.5"
+      ],
+      "originalSummary": "面向Agent的可执行、可验证科研成果"
+    },
+    {
+      "id": "r11-06",
+      "title": "OpenDiscoveryTrace",
+      "originalTitle": "OpenDiscoveryTrace",
+      "summary": "Agent科研过程记录与评价",
+      "date": "2026-09",
+      "end": null,
+      "sourceDate": "2026",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "Aayam Bansal、Keertan Balaji",
+      "countries": [],
+      "categories": [
+        5
+      ],
+      "type": "研究平台",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "LIS / Research Information"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研评价与诚信",
+        "科研信息基础设施"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "作者数据仓库和公开论文页面可以相互对照，描述了用于评估科研智能体工作流的分步轨迹。日期保留至月份。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://arxiv.org/abs/2609.09203"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://huggingface.co/datasets/aayambansall/OpenDiscoveryTrace"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://www.alphaxiv.org/abs/2609.09203"
+        }
+      ],
+      "sourceRows": [
+        "11.6"
+      ],
+      "originalSummary": "Agent科研过程记录与评价"
+    },
+    {
+      "id": "r11-08",
+      "title": "A Society of AI Scientists",
+      "originalTitle": "A Society of AI Scientists",
+      "summary": "多AI Scientist科研交流实验",
+      "date": "2026-11-21",
+      "end": null,
+      "sourceDate": "2026-11",
+      "years": [
+        2026
+      ],
+      "sourceContext": "",
+      "organizer": "alphaXiv 等多机构研究团队",
+      "countries": [],
+      "categories": [
+        5
+      ],
+      "type": "实验平台",
+      "communities": [
+        "Metascience",
+        "AI / CS",
+        "STS / Sociology"
+      ],
+      "themes": [
+        "科研过程与实践",
+        "科研成果与传播"
+      ],
+      "status": "已发布",
+      "verification": "已核实",
+      "evidence": "alphaXiv 于 11 月 21 日收录研究预印本。作者报告了为期十二周的多智能体科研协作实验，并发布论文、代码、评审及交流记录的数据集。",
+      "sources": [
+        {
+          "label": "原资料链接",
+          "url": "https://www.alphaxiv.org/abs/2611.society-ai-scientists"
+        },
+        {
+          "label": "核查来源",
+          "url": "https://huggingface.co/datasets/alphaXiv/AgentAlphaXiv"
+        }
+      ],
+      "sourceRows": [
+        "11.8"
+      ],
+      "originalSummary": "多AI Scientist科研交流实验"
+    }
+  ]
+}

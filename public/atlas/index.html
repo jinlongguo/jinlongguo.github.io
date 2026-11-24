@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f9f9f7">
+<title>The Metascience of Agentic Science · Research Atlas</title>
+<meta name="description" content="知识重构者策展的 Agentic Science 元科学研究地图。检索会议、出版、机构、资助政策、研究报告与基础设施，追溯每项收录的公开来源。">
+<link rel="icon" href="./atlas-mark.svg" type="image/svg+xml"><link rel="stylesheet" href="./style.css"><script src="./app.js" defer></script></head>
+<body>
+<a class="skip" href="#main">跳至正文</a>
+<header><div class="header-inner wrap"><a class="brand" href="#overview"><img src="./atlas-mark.svg" width="38" height="38" alt=""><span>Research Atlas</span></a><nav aria-label="主要导航"><a href="#overview" data-nav="overview">研究概览</a><a href="#index" data-nav="index">资源索引</a><a href="#timeline" data-nav="timeline">时间线</a><a href="#about" data-nav="about">关于与方法</a></nav><button class="global-search" id="globalSearch" aria-label="全站搜索" title="全站搜索（/）"><i data-icon="search"></i></button><button id="exportBtn" class="export"><i data-icon="download"></i><span>导出数据</span></button></div></header>
+<main id="main" class="wrap">
+<section class="hero" id="overviewHero"><div class="hero-copy"><div class="kicker"><span class="line"></span> AI-NATIVE RESEARCH ATLAS</div>
+<h1>The Metascience of<br><em>Agentic Science</em></h1>
+<p class="english-sub">Mapping the Emerging Landscape · 2025–2026</p>
+<p class="chinese-title">Agentic Science 元科学研究的新兴格局</p>
+<div class="byline"><span><i data-icon="pen"></i> 知识重构者 <span class="by-en">/ Curator</span></span><b></b><span>截至 <time datetime="2026-11-24">2026.11.24</time></span></div></div>
+<figure class="terrain"><img src="./terrain.svg" alt="三组相连的等高线象征元科学、科研实践与智能体科学的交汇"><figcaption><span class="mapkey"></span> 概念地形图 <span>/ Conceptual terrain</span></figcaption></figure></section>
+<section class="stats" id="stats" aria-label="收录概况"></section>
+<section id="directory"><div class="section-head"><div><div class="kicker"><span class="line"></span> <span id="sectionKicker">RESOURCE DIRECTORY</span></div><h2 id="sectionTitle">研究资源索引</h2></div><div id="viewSwitch" class="switch" aria-label="显示方式"><button data-view="cards"><i data-icon="grid"></i>卡片</button><button data-view="table"><i data-icon="table"></i>表格</button></div></div>
+<div class="index-layout"><aside class="side"><div class="aside-heading">资源分类 <span>COLLECTIONS</span></div><div id="categories"></div></aside>
+<section class="results-area" aria-label="资源检索"><div class="tools"><label class="search"><i data-icon="search"></i><input type="search" id="search" aria-label="全站资源搜索" placeholder="搜索名称、机构、主题或关键词…"><kbd>/</kbd></label><button id="filterBtn" class="outline"><i data-icon="filter"></i>筛选<span id="filterCount"></span></button></div><div id="filterPanel" hidden></div><div class="result-head"><div id="resultSummary" aria-live="polite"></div><label id="sortWrap">排序<select id="sort" aria-label="资源排序"><option value="curated">策展顺序</option><option value="new">由近及远</option><option value="old">由远及近</option><option value="name">名称 A–Z</option></select></label></div>
+<div id="activeFilters"></div><div id="results" aria-live="polite"><p>正在载入研究数据…</p></div><div id="pages"></div>
+</section></div></section>
+<section id="observations"><div class="kicker"><span class="line"></span> OVERVIEW</div><h2>研究背景与主要观察</h2><p class="intro">当科研智能体开始提出问题、执行研究并提交成果，科学共同体如何判断这些工作的价值？这份初步的、非穷尽性的研究地图，追踪围绕这一问题出现的学术场所、研究实践与制度实验。</p><div class="essays" id="insights"></div></section>
+<section id="aboutPage" hidden></section>
+</main><footer><div class="wrap foot"><div><img src="./atlas-mark.svg" width="23" height="23" alt=""> <strong>Research Atlas</strong><span>知识重构者 · Knowledge Reconstruction</span></div><a href="#about">关于与方法</a><span id="edition"></span></div></footer>
+<dialog id="detailDialog"><div id="detail"></div></dialog>
+<dialog id="exportDialog" aria-label="导出研究数据"><div class="dialog-head"><div class="kicker">DATA EXPORT</div><button data-close class="iconbtn" aria-label="关闭">×</button></div><h2>导出研究数据</h2><p>选择记录范围与文件格式。导出内容包括来源链接、核查说明、分类和研究主题。</p><fieldset><legend>导出范围</legend><label><input type="radio" name="scope" value="all" checked> 完整图谱 <span id="allExportCount"></span></label><label><input type="radio" name="scope" value="filtered"> 当前筛选 <span id="filteredExportCount"></span></label></fieldset><div class="export-actions"><button data-format="json" class="purple"><i data-icon="download"></i>下载 JSON</button><button data-format="csv" class="outline"><i data-icon="download"></i>下载 CSV</button></div></dialog><noscript>请启用 JavaScript 使用交互索引，或直接下载 <a href="./data/atlas.json">完整 JSON 数据</a>。</noscript></body></html>

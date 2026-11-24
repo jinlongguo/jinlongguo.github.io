@@ -1,0 +1,13 @@
+{
+  "name": "knowledge-reconstruction",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "build": "node scripts/clean-content-cache.mjs && astro build && node scripts/verify-build.mjs",
+    "preview": "astro preview --host 127.0.0.1"
+  },
+  "dependencies": { "astro": "6.4.8" },
+  "engines": { "node": ">=22.12.0" }
+}

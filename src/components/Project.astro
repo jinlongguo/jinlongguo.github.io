@@ -1,0 +1,9 @@
+---
+import { copy, type Language } from '../lib/site';
+const { lang } = Astro.props as { lang: Language };
+const t = copy[lang];
+---
+<article class="project">
+  <div class="project-copy"><p class="eyebrow">RESEARCH ATLAS</p><h2><a href="/atlas/">{t.project}</a></h2><p>{t.projectDescription}</p><p class="muted">{t.scope}</p><div class="actions"><a class="button" href="/atlas/">{t.explore}</a><a href="/atlas/data/atlas.json" download>{t.download}</a></div><p class="fine">{t.version}</p></div>
+  <a class="project-art" href="/atlas/" aria-label={t.explore}><img src="/atlas/terrain.svg" width="550" height="360" alt={lang === 'zh' ? 'Atlas 概念地形图' : 'Conceptual terrain of the Atlas'} /></a>
+</article>

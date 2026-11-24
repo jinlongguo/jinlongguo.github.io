@@ -1,0 +1,85 @@
+media:
+  - name: images
+    label: 图片 Images
+    input: public/uploads
+    output: /uploads
+    extensions: [jpg, jpeg, png, webp, gif, svg, avif]
+    rename: safe
+  - name: files
+    label: 附件 Downloads
+    input: public/files
+    output: /files
+    extensions: [pdf, csv, json, zip, txt, xlsx]
+    rename: safe
+content:
+  - name: articles
+    label: 文章 Articles
+    type: collection
+    path: src/content/articles
+    format: yaml-frontmatter
+    filename:
+      template: "{year}-{month}-{day}-{primary}.md"
+      field: create
+    subfolders: false
+    view:
+      fields: [title, date, lang, draft]
+      primary: title
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题 Title
+        type: string
+        required: true
+      - name: date
+        label: 日期 Date
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+      - name: summary
+        label: 摘要 Summary
+        type: text
+      - name: tags
+        label: 标签 Tags
+        type: string
+        list: true
+      - name: lang
+        label: 语言 Language
+        type: select
+        required: true
+        default: zh
+        options:
+          values:
+            - name: zh
+              label: 中文
+            - name: en
+              label: English
+      - name: draft
+        label: 草稿 Draft（关闭后发布）
+        type: boolean
+        default: true
+        description: 保存草稿不会显示在网站。关闭草稿后保存即可发布。公开仓库中的草稿仍可被查看，请勿写入私人资料。
+      - name: cover
+        label: 封面图 Cover（可选）
+        type: image
+        options:
+          media: images
+      - name: translationKey
+        label: 双语关联标识 Translation key（可选）
+        type: string
+        description: 同一文章的中英文版本填写相同标识，语言按钮即可互相切换。
+      - name: body
+        label: 正文 Body
+        type: rich-text
+        options:
+          format: markdown
+          switcher: true
+          media: images
+settings:
+  content:
+    merge: true
+  commit:
+    identity: app
