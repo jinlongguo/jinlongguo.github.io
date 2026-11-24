@@ -20,4 +20,6 @@ cover: /uploads/workflow-test.svg
 
 ![临时上传图片](/uploads/workflow-test.svg)
 
-WORKFLOW_ACCEPTANCE_DRAFT_20261124
+WORKFLOW_ACCEPTANCE_UPDATED_20261124
+
+已发布文章更新验证。
