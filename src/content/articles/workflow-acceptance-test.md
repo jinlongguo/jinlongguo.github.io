@@ -5,7 +5,7 @@ summary: 仅用于验证 Pages CMS 草稿、外链、图片及自动发布，验
 tags:
   - workflow-test
 lang: zh
-draft: true
+draft: false
 cover: /uploads/workflow-test.svg
 ---
 # 临时发布流程验收
