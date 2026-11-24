@@ -19,7 +19,6 @@ tags:
   - Open Science
 lang: zh
 draft: false
-cover: /uploads/six-freedoms-of-knowledge-hub.png
 translationKey: six-freedoms-of-knowledge
 ---
 今天，在自己的个人网站上发布完第一篇文章之后，我突然产生了一种很奇妙的自由感。
